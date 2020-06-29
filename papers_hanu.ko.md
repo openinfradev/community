@@ -1,117 +1,118 @@
-# Process for Authoring Jupyter Related Academic Papers
+#HANU 관련 학술 논문 작성 절차
 
-This document describes the processes used to author Jupyter related academic papers, which are typically submitted to peer-reviewed journals. This does not include talks and posters submitted to conferences unless the conference also publishes written proceedings.
+이 문서는 HANU 관련 학술 논문을 작성하는 데 사용되는 프로세스를 설명하며 일반적으로 동료 검토 저널에 제출됩니다. 회의가 서면 절차를 게시하지 않는 한 회의에 제출 된 대화 및 포스터는 포함되지 않습니다.
 
-On one hand, the primary focus of Project Jupyter is on producing open-source software. We are very much focused on writing code that delights our users. On the other hand, Jupyter (and IPython) emerged out of an acadmic setting, where research and peer-reviwed publications are a primary focus. To this day, many of our core contributors have academic positions and active research programs. This emphasis is also reflected in the usage of Jupyter across all areas of scientific research. Thus, in spite of a focus on writing software for users, Jupyter remains a tool that is by and for researchers.
+한편으로 HANU Project의 주요 초점은 오픈 소스 소프트웨어 제작에 있습니다. 우리는 사용자를 즐겁게하는 코드 작성에 매우 중점을두고 있습니다. 반면에 HANU (및 IPython)는 연구 및 동료 간행물이 주요 초점이되는 학계 환경에서 나왔습니다. 오늘날까지 많은 핵심 기고자들은 학업 및 활동적인 연구 프로그램을 가지고 있습니다. 이 강조는 또한 모든 과학 연구 분야에서 HANU의 사용에 반영됩니다. 따라서 HANU는 사용자를위한 소프트웨어 작성에 중점을 두었음에도 불구하고 연구원이 사용할 수있는 도구로 남아 있습니다.
 
-Given this focus on research, the ongoing academic careers of many Jupyter contributors, and our desire to have an impact on computing research, it is important for us to author and publish peer-reviewed papers on Jupyter itself. Authoring these papers in the context of a large, open-source community presents a number of differences compared to many research collaborations.
+연구, 많은 HANU 기고자들의 지속적인 학업 경력 및 컴퓨팅 연구에 영향을 미치기를 원한다는 점을 감안할 때 HANU 자체에 대해 동료 검토 논문을 작성하고 게시하는 것이 중요합니다. 대규모 오픈 소스 커뮤니티에서 이러한 논문을 작성하면 많은 연구 협력과 비교하여 많은 차이점이 있습니다.
 
-## Principles
-We have tried to create a process for authoring papers with the following general principles in mind:
+## 원칙
+우리는 다음과 같은 일반적인 원칙을 염두에두고 논문을 작성하는 프로세스를 만들려고 노력했습니다.
 
-* **Inclusivity and generosity in authorship. Hundreds of individuals have contributed to the different Jupyter subprojects. These contributions span code, design, documentation, discussions, giving talks/tutorials, etc. We want to be generous in extending authorship privileges and responsibilities to as many of these contributors as possible.
-* **Clear, explicit criteria for authorship. While being generous, we want have concrete, specific and auditable criteria for including individuals as authors.
-* **Openness. The process of authoring papers should be open in the same way as the rest of the project’s work. Thus, all of our papers are written in the public on GitHub.
-* **Accountability. Being an author on a paper is a privilege, but also involves responsibilities. The concrete processes described below elucidate these responsibilities.
+** ** 저작권에 포함 된 관대함과 관대함. 수백 명의 개인이 다른 HANU 하위 프로젝트에 기여했습니다. 이러한 기여는 코드, 디자인, 문서화, 토론, 대화 / 자습서 제공 등을 포함합니다. 우리는 가능한 한 많은 기여자에게 저작자 권한과 책임을 넓히고 자합니다.
+** ** 저작권에 대한 명확하고 명확한 기준. 관대하면서도 개인을 저자로 포함시키기위한 구체적이고 구체적이며 감사 가능한 기준이 필요합니다.
+* ** 개방. 논문 작성 과정은 나머지 프로젝트 작업과 같은 방식으로 열려 있어야합니다. 따라서 우리의 모든 논문은 GitHub에 공개적으로 작성되었습니다.
+** ** 책임. 논문의 저자가되는 것은 특권이지만 책임도 포함됩니다. 아래에 설명 된 구체적인 프로세스는 이러한 책임을 설명합니다.
 
-We expect to author and submit papers to different types of journals. Different journals will have slightly different concrete processes that appropriately embody these principles.
+우리는 다른 유형의 저널에 논문을 작성하고 제출할 것으로 기대합니다. 각기 다른 저널에는 이러한 원칙을 적절히 구현하는 약간 다른 구체적인 프로세스가 있습니다.
 
-## Author ordering
-In some academic fields, author ordering is used to implicitly communicate the level and significance of the individual’s contributions. We strongly feel this is misleading and misguided. Because of this, all Jupyter papers will use the following author ordering policy:
+## 저자 주문
+일부 학문 분야에서 저자 순서는 개인의 기여 수준과 중요성을 암시 적으로 전달하는 데 사용됩니다. 우리는 이것이 오도되고 잘못 인도되었다고 강하게 느낍니다. 이로 인해 모든 HANU 논문은 다음 저자 주문 정책을 사용합니다.
 
-* The first author will be listed as "Project Jupyter";
-* Individual authors will follow in alphabetical order; and
-* An explicit statement about the ordering will be included in the paper.
+* 첫 번째 저자는 "HANU Project"로 표시됩니다.
+* 개별 저자는 알파벳 순서로 따라갑니다. 과
+* 주문에 대한 명시 적 진술이 논문에 포함됩니다.
 
-Listing the first author as “Project Jupyter” is important as it means that in abbreviated citations, the author list will be “Project Jupyter, et al.” rather than artificially showing the first alphabetical author’s name. This is common practice in academic field such as high energy physics where there are large numbers of authors on papers.
+첫 번째 저자를 "HANU Project"로 나열하는 것은 약어 인용에서 저자 목록이 "HANU Project 등"이라는 의미이므로 중요합니다. 알파벳순으로 저자의 이름을 인위적으로 보여주기보다는 이것은 논문에 다수의 저자가있는 고 에너지 물리학과 같은 학문 분야에서 일반적인 관행입니다.
 
-## Process for Journal of Open Source Software (JOSS)
-The Journal of Open Source Software (JOSS) is a peer-reviewed, developer-friendly journal for research related software. JOSS is unique in that:
+## JOSS (Open Source Software) 저널 프로세스
+JOSS (Journal of Open Source Software)는 연구 관련 소프트웨어에 대해 동료가 검토하고 개발자에게 친숙한 저널입니다. JOSS는 다음과 같은 점에서 독특합니다.
 
-Each paper is associated with a single GitHub repository;
-The primary research artifact in the software itself; and
-The paper itself is a relatively brief markdown file in the software’s GitHub repository, deferring details of the software to its own documentation.
-It is our intention to publish a JOSS paper for each of our main, user-focused subprojects (Notebook, JupyterLab, JupyterHub, nbconvert, ipywidgets, etc.). All such paper should use the process described herein.
+각 논문은 단일 GitHub 저장소와 연관되어 있습니다.
+소프트웨어 자체의 주요 연구 인공물. 과
+이 문서 자체는 소프트웨어의 GitHub 리포지토리에있는 비교적 간단한 마크 다운 파일로 소프트웨어의 세부 정보를 자체 문서로 연기합니다.
+우리는 사용자 중심의 주요 하위 프로젝트 (노트북, HANULab, HANUHub, nbconvert, ipywidgets 등) 각각에 대해 JOSS 논문을 발행하고자합니다. 이러한 모든 문서는 여기에 설명 된 프로세스를 사용해야합니다.
 
-### JOSS authorship criteria
+### JOSS 저작 기준
 
-Our authorship criteria for JOSS papers are derived from those of the ICMJE:
+JOSS 논문에 대한 우리의 저작권 기준은 ICMJE의 기준에서 비롯됩니다.
 
-* Substantial contributions to the conception, design, or implementation of software; this includes coding, visual design, documentation, testing, discussions and other such contributions; AND
-* Final approval of the version to be published; AND
-* Agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
+* 소프트웨어의 개념, 설계 또는 구현에 실질적인 기여; 여기에는 코딩, 시각 디자인, 문서, 테스트, 토론 및 기타 기여가 포함됩니다. 과
+* 출판 될 버전의 최종 승인; 과
+* 작업의 모든 부분의 정확성 또는 무결성과 관련된 질문이 적절하게 조사되고 해결 될 수 있도록 작업의 모든 측면에 대해 책임을 져야합니다.
 
-Anyone who satisfies and is willing to accept these responsibilities and commitments is welcome to be an author on any of our JOSS publications.
+이러한 책임과 약속을 충족시키고 기꺼이 받아들이려는 사람은 누구나 JOSS 간행물의 저자가 될 수 있습니다.
 
-### JOSS process
+### JOSS 프로세스
 
-The following process should be used to author any Jupyter related JOSS paper:
+HANU 관련 JOSS 논문을 작성하려면 다음 프로세스를 사용해야합니다.
 
 #### 1. Someone agrees to be the Coordinator for a paper
 
-A single JOSS paper will be associated with a single Jupyter repository. The Coordinator will usually be a senior project contributor, Steering Council member, or leader of that subproject.
+단일 JOSS 용지는 단일 HANU 리포지토리와 연결됩니다. 코디네이터는 일반적으로 선임 프로젝트 기고자, 운영 협의회 멤버 또는 해당 하위 프로젝트의 리더가됩니다.
 
-The role of the Coordinator is to implement this process for that paper. They do not have to write the JOSS paper themselves, but they will work with the community to organize the writing of the paper.
+코디네이터의 역할은 해당 논문에 대해이 프로세스를 구현하는 것입니다. JOSS 논문을 직접 작성할 필요는 없지만, 논문 작성을 조직하기 위해 커뮤니티와 협력 할 것입니다.
 
 #### 2. Open an issue and announce the writing of the paper
 
-The Coordinator should open an issue to organize the writing of the paper on that repository and then announce to the Jupyter Google Group that the paper is being worked on and that anyone can contribute (with a link to the issue).
+코디네이터는 해당 저장소에 대한 논문 작성을 구성하기 위해 이슈를 연 다음, 논문이 진행 중이며 누구나 이슈에 대한 링크를 통해 기여할 수 있음을 HANU Google 그룹에 발표해야합니다.
 
 #### 3. Draft the paper in the repository
 
-At this point, the Coordinator should organize the writing of the actual paper.
+이 시점에서 코디네이터는 실제 논문을 작성해야합니다.
 
-The JOSS Author Guidelines detail the format and requirements of a JOSS paper. In general this will involve creating a paper subdirectory in the root of the repository with two files: paper.md and paper.bib. The paper should be written using our standard processes for pull requests and code review.
+JOSS Author Guidelines는 JOSS 논문의 형식과 요구 사항을 자세히 설명합니다. 일반적으로 이것은 저장소의 루트에 paper.md 및 paper.bib라는 두 개의 파일을 가진 paper 서브 디렉토리를 작성하는 것을 포함합니다. 풀 요청 및 코드 검토를 위해 표준 프로세스를 사용하여 논문을 작성해야합니다.
 
 #### 3. Email potential authors
 
-Once a final draft of the paper has been merged into the repository, the Coordinator should email all potential authors of the paper, inviting them to participate. Usually this will include at least two emails:
+논문의 최종 초안이 저장소에 병합되면 코디네이터는 논문의 모든 잠재적 저자에게 이메일을 보내 참여하도록 초대해야합니다. 일반적으로 여기에는 두 개 이상의 이메일이 포함됩니다.
 
-* Individually email all contributors listed in the Git log of the repository. This list can be generated using the Git command git log --all --format='%cN <%cE>' | sort -u.
-* Email the main Jupyter Google Group to include folks not listed in the Git log.
+* 리포지토리의 Git 로그에 나열된 모든 기고자를 개별적으로 이메일로 보냅니다. 이 목록은 Git 명령 `git log --all --format='%cN
+  <%cE>' | sort -u`.
+* 주피터 Google 그룹에 이메일을 보내 Git 로그에없는 사람들을 포함시킵니다.
 
-In addition, the Coordinator should send personal emails to individuals, such as students, who are new to writing academic publications, explaining why we are writing a paper, and encouraging them to participate. These personal emails should cc the individual’s mentor or advisor if applicable.
+또한 코디네이터는 학술 출판물을 처음 접하는 학생들, 우리가 논문을 쓰는 이유를 설명하고 참여하도록 격려하는 학생과 같은 개인에게 개인 이메일을 보내야합니다. 이러한 개인 이메일은 해당되는 경우 개인의 멘토 또는 조언자를 참조해야합니다.
 
-Both of these emails should include:
+이 두 이메일 모두 다음을 포함해야합니다.
 
-* A verbatim copy of the above JOSS authorship criteria;
-* A description the tasks each individual needs complete to be an author on the paper;
-* A concrete deadline for completing those tasks (at least 2 weeks out); and
-* A link to the paper’s markdown file in the repository.
+* 상기 JOSS 저작 기준의 완전 사본;
+* 논문의 저자가되기 위해 각 개인이 완료해야하는 작업에 대한 설명;
+* 해당 작업을 완료하기위한 구체적인 마감일 (최소 2주)과
+* 저장소에있는 Paper의 마크 다운 파일에 대한 링크.
 
-The tasks each individual needs to complete are as follows:
+각 개인이 완료해야하는 작업은 다음과 같습니다.
 
-* Create an account on ORCID.
-* Submit a PR to the repository adding their name, ORCID id, and affiliation to the paper;
-* Provide any edits to the content of the paper;
-* In the comment of the PR, briefly describe their contributions to the work; and
-* In the comment of the PR, provide verification that they have read the paper and agree to its publication.
+* ORCID에 계정을 만드십시오.
+* 서류에 이름, ORCID id 및 소속을 추가하여 PR을 저장소에 제출하십시오.
+* 논문 내용에 대한 수정 사항을 제공합니다.
+* PR의 의견에, 그들의 작업에 대한 그들의 기여를 간략하게 설명하십시오. 과
+* PR의 의견에, 그들이 논문을 읽었으며 출판에 동의한다는 확인을 제공하십시오.
 
-As the deadline approaches, the Coordinator should remind potential authors to complete their tasks.
+마감일이 다가 오면 코디네이터는 잠재적 인 저자에게 작업을 완료하도록 상기시켜야합니다.
 
-#### 4. Final submission
+#### 4. 최종 제출
 
-Once the deadline for authors to complete their tasks has passed, the Coordinator should make sure authors are listed in alphabetical order. The Coordinator can then submit the paper.
+작성자가 과제를 완료해야하는 기한이 지났 으면 코디네이터는 저자가 알파벳 순서로 나열되도록해야합니다. 그런 다음 코디네이터는 논문을 제출할 수 있습니다.
 
-### Process for traditional academic papers
+### 전통적 학술 논문 처리
 
-Papers submitted to other (non-JOSS) journals, will usually be longer and take a more significant amount of time to author. They will also usually be authored in dedicated repository (under the jupyter-resources GitHub organization). Because of these factors, the process is slightly different.
+다른 (JOSS 이외의) 저널에 제출 된 논문은 일반적으로 더 길고 작성하는 데 더 많은 시간이 걸립니다. 또한 일반적으로 hanu-resources GitHub 조직의 전용 저장소에서 작성됩니다. 이러한 요인으로 인해 프로세스가 약간 다릅니다.
 
-### Authorship criteria
+### 권한 기준
 
-The authorship criteria for non-JOSS papers is slightly different than for JOSS in that all authors are expected to actively participate in the writing and editing of the paper.
+비 JOSS 논문의 저작자 기준은 모든 저자가 논문의 작성 및 편집에 적극적으로 참여해야한다는 점에서 JOSS와 약간 다릅니다.
 
-Our authorship criteria for papers are derived from those of the ICMJE:
+논문에 대한 우리의 저자 기준은 ICMJE의 것에서 파생됩니다.
 
-* Substantial contributions to the conception, design, or implementation of software; this includes coding, visual design, documentation, testing, discussions and other such contributions; AND
-* Drafting the work or revising it critically for important intellectual content; AND
-* Final approval of the version to be published; AND
-* Agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.
+* 소프트웨어의 개념, 설계 또는 구현에 실질적인 기여; 여기에는 코딩, 시각 디자인, 문서, 테스트, 토론 및 기타 기여가 포함됩니다. 과
+* 중요한 지적 내용을 위해 작품을 작성하거나 비판적으로 수정; 과
+* 출판 될 버전의 최종 승인; 과
+* 작업의 모든 부분의 정확성 또는 무결성과 관련된 질문이 적절하게 조사되고 해결 될 수 있도록 작업의 모든 측면에 대해 책임을 져야합니다.
 
-Anyone who satisfies and is willing to accept these responsibilities and commitments is welcome to be an author on any of our publications.
+이러한 책임과 약속을 충족시키고 기꺼이 받아들이려는 사람은 누구나 당사의 간행물에 대한 저자가 될 수 있습니다.
 
-The second of these responsibilities implies that all authors will actively participate in the writing of the manuscript. We recognize that not all co-authors will contribute equally and in the same way to the writing of a paper. Furthermore, for papers with large numbers of co-authors, we expect the main writing will be done by a smaller group of co-authors, with other co-authors contributing to editing work and discussions. However, in all cases active participation in some manner is still required.
+이 두 번째 책임은 모든 저자가 원고 작성에 적극적으로 참여한다는 것을 의미합니다. 우리는 모든 공동 저자가 논문 작성에 똑같이 그리고 같은 방식으로 기여하지는 않는다는 것을 알고 있습니다. 또한 다수의 공동 저자가있는 논문의 경우, 주요 공동 작성은 소규모 공동 저자 그룹이 수행하고 다른 공동 저자는 편집 작업 및 토론에 기여할 것으로 예상합니다. 그러나 모든 경우에 어떤 방식 으로든 적극적인 참여가 여전히 요구됩니다.
 
-### Process
+### 프로세스
 
-Before creating the detailed process for authoring non-JOSS papers, we want to try out the above process for JOSS papers and see how it should be modified for longer form papers. In general, we expect to closely follow the process used in the SymPy project to author this paper.
+비 JOSS 용지를 작성하기위한 자세한 프로세스를 작성하기 전에 위의 JOSS 용지 프로세스를 시도하고 더 긴 양식 용지를 위해이를 수정하는 방법을 확인하려고합니다. 일반적으로, 우리는이 논문을 작성하기 위해 SymPy 프로젝트에서 사용 된 프로세스를 면밀히 따를 것으로 기대합니다.
