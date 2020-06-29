@@ -7,8 +7,8 @@
 
 ## 목차
 * [메인 거버넌스 문서](governance_hanu.ko.md)
-* [현재 운영 협의회 및 파트너](people_hanu_ko.md)
-* [서브 프로젝트 인큐베이션 프로세스](newsubprojects_hanu_ko.md)
+* [현재 운영 협의회 및 파트너](people_hanu.ko.md)
+* [서브 프로젝트 인큐베이션 프로세스](newsubprojects_hanu.ko.md)
 * [관련 학술 논무 작성 절차](papers_hanu.ko.md)
 * [코드 라이센스](projectlicense_hanu.ko.md)
 * [프로젝트 행동 수칙](code_of_onduct_hanu.ko.md)
