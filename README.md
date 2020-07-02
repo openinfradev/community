@@ -11,4 +11,4 @@
 * [서브 프로젝트 인큐베이션 프로세스](newsubprojects_hanu.ko.md)
 * [관련 학술 논무 작성 절차](papers_hanu.ko.md)
 * [코드 라이센스](projectlicense_hanu.ko.md)
-* [프로젝트 행동 수칙](code_of_onduct_hanu.ko.md)
+* [프로젝트 행동 수칙](code_of_conduct_hanu.ko.md)
