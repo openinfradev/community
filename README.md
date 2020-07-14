@@ -22,7 +22,7 @@ HANU에는 공식적으로 지원되는 다음과 같은 유형의 그룹이 있
   많은 HANU 사용자 그룹과 장기적으로 관련이있는 Summit, 회의에 참여할 수 있습니다.
   HANU 코드베이스의 일부에 대한 소유권이 없습니다.
 
-이러한 그룹에 대한 자세한 내용은 [full governance doc] (governance.md)을 참조하십시오.
+이러한 그룹에 대한 자세한 내용은 [full governance doc](governance.md)을 참조하십시오.
 
 
 ## Learn to Build
