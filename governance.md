@@ -35,3 +35,9 @@ HANU 커뮤니티는 [HANU 행동 수칙]을 준수합니다.
 ## Committees
 
 ## User Groups
+
+
+
+# Repository guidelines
+
+HANU github의 모든 새로운 리포지토리는 [HANU 리포지토리 지침]에 설명 된 프로세스를 따라야합니다.
