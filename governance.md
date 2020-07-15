@@ -29,12 +29,16 @@ HANU 커뮤니티는 [HANU 행동 수칙]을 준수합니다.
 * User Groups
 
 ## Project Group
+- menbership에 대한 내용이 정해지면 추후 업데이터 예정
 
 ## Working Groups
+- menbership에 대한 내용이 정해지면 추후 업데이터 예정
 
 ## Committees
+- menbership에 대한 내용이 정해지면 추후 업데이터 예정
 
 ## User Groups
+- menbership에 대한 내용이 정해지면 추후 업데이터 예정
 
 
 
