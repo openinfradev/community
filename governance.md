@@ -23,12 +23,12 @@ HANU 커뮤니티는 [HANU 행동 수칙]을 준수합니다.
 # Community groups
 
 프로젝트는 다음 유형의 하위 그룹으로 구성됩니다.
-* Project Group
+* Project ManagementGroup
 * Working Groups
 * Committees
 * User Groups
 
-## Project Group
+## Project ManagementGroup
 - menbership에 대한 내용이 정해지면 추후 업데이터 예정
 
 ## Working Groups
