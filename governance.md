@@ -17,7 +17,7 @@ HANU 커뮤니티는 [HANU 행동 수칙]을 준수합니다.
 
 # Values
 
-[HANU로 돈벌어서 韓牛(한우, One Beef)먹자]
+[HANU로 돈벌어서 韓牛(한우, Han Niu)먹자]
 
 
 # Community groups
