@@ -1,8 +1,13 @@
-Purpose of the Community 
+# Our Mission 
 
-Principles and Goals
 
-Leadership 
+# Principles and Goals
+
+
+# Code of Conduct
+
+
+# Leadership, Authority and Responsibility
 
  (1) Steering Group : Overseas project operations, Provides strategic guidance
  
@@ -10,6 +15,6 @@ Leadership
  
  (3) Projdct Members : Submit requests, requirements, recommedations, feedback and other input. 
  
-Authority 
+ 
+# Authority 
 
-Responsibility
