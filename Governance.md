@@ -6,6 +6,7 @@
 
 
 
+
 ## Code of Conduct
 
 
@@ -13,17 +14,24 @@
 ## Leadership, Authority and Responsibility
 
    - Leadership
-      (1) Steering Group : Overseas project operations, Provides strategic guidance
+   
+      (1) Group A: Overseas project operations, Provides strategic guidance
  
-      (2) Leadership Group : Approve priorities and strategic direction 
+      (2) Group B : Approve priorities and strategic direction 
  
-      (3) Projdct Members : Submit requests, requirements, recommedations, feedback and other input. 
+      (3) Group C (Project Members) : Submit requests, requirements, recommedations, feedback and other input. 
  
    - Authority
    
    - Responsibility
  
  
+## Review & Apporoval Guidelines 
+
+ 프로젝트 결과물의 QA 체크리스트 및 최종 승인 프로세스 
+
+
+
 ## Repository 
  
  
