@@ -72,8 +72,6 @@
 
 
 
-
-
 ## Contact
 
    - 언론보도 및 취재문의 
@@ -84,7 +82,8 @@
    
    
    
-   
+##  PMC(Project Management Committee) & TLP(Top Level Project)
+
    
    
    
