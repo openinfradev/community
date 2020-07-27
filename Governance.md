@@ -1,5 +1,7 @@
 ## Our Mission 
-설립 배경 및 공동의 가치 정립 
+HANU는 오픈스택과 쿠버네티스 upstream project를 기반으로, 국내 기업과 엔지니어들이 주축이 되어, 그 project를 국내에서 활성화하여 upstream에 기여하는것에 그 가치를 둔다.
+
+또한 국내 기업과 엔지니어들이 협업하여, 국내에 지원체계를 구축하여 오픈소스  생태계를 확장하는데 기여한다. 
 
 
 
@@ -12,46 +14,52 @@
 - 추진 프로젝트 
 - 사업 전개 결과 
 
-## Organization 
-
 
 
 ## Code of Conduct
 
 
 
-## Leadership, Authority and Responsibility
+## Organization
 
-   - Leadership
+   - Board of Directors : HANU 프로젝트 전체와  자산을  감독 / 스폰서쉽 회사와 멤버들을 관리함
+ 
+   - Technical Committee : HANU 프로젝트의 기술적인 문제에 대해 관리하는 역할 / 선출은 upstream 프로젝트에 관여된 contributor들에 의해서 선출됨. 
    
-      (1) Group A: Overseas project operations, Provides strategic guidance
- 
-      (2) Group B : Approve priorities and strategic direction 
- 
-      (3) Group C (Project Members) : Submit requests, requirements, recommedations, feedback and other input. 
- 
-   - Authority
+   - User Committee : HANU 프로젝트의 유저들을 대표하는 역할 
+     (1) 리뷰어/ 컨트리뷰터/유저
    
-   - Responsibility
+   
+## User and Project Management
+   - Creating New Users
+   - Associating Users with Projects
+
+
+## 작성 가이드 
+   - 
+## Operation Guide 
+   - Logging and Monitoring 
+   - Maintenance, Failure and Debugging 
+   - (Network) Trouble Shooting 
+   - Backup and Recovery 
+   - Configuration and Upgrade 
  
-## (공동개발 추진 체계 - 다층적 구조의 합작추진 하위 조직으로 구성 ) 
-
-- 협력 Committe
-- 지도체계 Committe
-- 관리체계 Committe
-- 개발체계 Committe
 
  
  
-## Review & Apporoval Guidelines 
+##  Build and Release 
+    - PM(Project Management) & TLP(Top Level Project)
 
- 프로토콜 최종 승인 절차 및 확인사항 
+ 
+
+##  Contributions
 
 
 
-## Conflict and Interests Guidelines
+##  Conflict and Interests Guidelines
 
    이해관계자간 갈등 및 이해조정을 위한 지침 
+   
 
 
 ## Repository 
@@ -82,7 +90,10 @@
    
    
    
-##  PMC(Project Management Committee) & TLP(Top Level Project)
+ - OpenStack Project Teams (responsible for the production of the software up to release)
+ - Special Interest Groups (SIGs) (groups working to advance a particular facet of OpenStack)
+ - Popup teams (formed around a limited cross-project objective) 
+ - Working groups (delegations from the TC to fill specific functions like election organization).
 
    
    
