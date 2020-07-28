@@ -33,7 +33,7 @@ HANU 커뮤니티는 [HANU 행동 수칙](code-of-conduct.md)을 준수합니다
 * User Groups
 
 ## Operation Guide 
-[코드 운영 및 개발에 대한 가이드]([코드 운영 및 개발에 대한 가이드](contributors_devel_guide.md)를 참고하세요
+[코드 운영 및 개발에 대한 가이드](contributors_devel_guide.md)를 참고하세요
 .md)를 참고하세요
    - Logging and Monitoring 
    - Maintenance, Failure and Debugging 
