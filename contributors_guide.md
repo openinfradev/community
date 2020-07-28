@@ -17,7 +17,7 @@ HANU에 오신 것을 환영합니다! 이 안내서는 다음 섹션으로 구�
 
 ## Sign the CLA
 
-기고하기 전에 [Contributor License Agreement]에 서명을 하셔야 합니다.
+기고하기 전에 [Contributor License Agreement](CLA.md)에 서명을 하셔야 합니다.
 
 ## Code of Conduct
 
