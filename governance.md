@@ -26,14 +26,15 @@ HANU 커뮤니티는 [HANU 행동 수칙](code-of-conduct.md)을 준수합니다
 # Community groups (Organization)
 
 프로젝트는 다음 유형의 하위 그룹으로 구성됩니다.
-자세하 내용은  [조직 및 맴버쉽](code-of-conduct.md)을 참고하세요.
+자세한 내용은  [조직 및 맴버쉽](membership.md)을 참고하세요.
 * Project ManagementGroup
 * Working Groups
 * Committees
 * User Groups
 
 ## Operation Guide 
-[코드 운영 및 개발에 대한 가이드](code-of-conduct.md)를 참고하세요
+[코드 운영 및 개발에 대한 가이드]([코드 운영 및 개발에 대한 가이드](contributors_devel_guide.md)를 참고하세요
+.md)를 참고하세요
    - Logging and Monitoring 
    - Maintenance, Failure and Debugging 
    - (Network) Trouble Shooting 
@@ -41,13 +42,13 @@ HANU 커뮤니티는 [HANU 행동 수칙](code-of-conduct.md)을 준수합니다
    - Configuration and Upgrade 
    
 ##  Build and Release 
-[코드 운영 및 개발에 대한 가이드](code-of-conduct.md)를 참고하세요
+[코드 운영 및 개발에 대한 가이드](contributors_devel_guide.md)를 참고하세요
 
 ##  Contributions
 [Contributor 가이드](contributors_guide.md)를 참고하세요
 
 ## Repository 
-HANU github의 모든 새로운 리포지토리는 [HANU 리포지토리 지침](contributors_guide.md)에 설명 된 프로세스를 따라야합니다.
+HANU github의 모든 새로운 리포지토리는 [HANU 리포지토리 지침](contributors_devel_guide.md)에 설명 된 프로세스를 따라야합니다.
 
 ## Contact
    - 추후 업데이트
