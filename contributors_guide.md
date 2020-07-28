@@ -23,8 +23,6 @@ HANU에 오신 것을 환영합니다! 이 안내서는 다음 섹션으로 구�
 
 [행동 규범](/code-of-conduct.md)를 읽고 준수하십시오.
 
-Please make sure to read and observe our [Code of Conduct](/code-of-conduct.md) and [Community Values](/values.md)
-
 ## Setting up your development environment
 
 환경을 설정하지 않은 경우 [개발환경 가이드](/contributors_devel_guide.md)를 확인하십시오.
