@@ -27,7 +27,7 @@ HANU에는 공식적으로 지원되는 다음과 같은 유형의 그룹이 있
 
 ## Learn to Build
 
-[contributor 가이드](contributors_devel_guide.md)에 많은 관련 기술 주제로 연결됩니다.
+[contributor 개발 가이드](contributors_devel_guide.md)에 많은 관련 기술 주제로 연결됩니다.
 
 
 ## Contribute
