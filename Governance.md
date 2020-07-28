@@ -17,6 +17,7 @@ HANU는 오픈스택과 쿠버네티스 upstream project를 기반으로, 국내
 
 
 ## Code of Conduct
+자세한 내용은 [Code of Conduct](code-of-conduct.me)를 참조하십시오.
 
 
 
@@ -67,16 +68,7 @@ HANU는 오픈스택과 쿠버네티스 upstream project를 기반으로, 국내
 용도별 Archive / 소스파일과 문서의 상업적 이용 (불)가능. / 사용자 역할 및 권한 정의 要
 
  
- 
-## Terms and Concepts 
-   
-   
-   
 
-## Financial Report 
-
-- 재정 운영의 계획
-- 예산 집행 및 결산 보고
 
 
 
