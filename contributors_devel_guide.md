@@ -31,3 +31,13 @@
 * **문서 규약** : 기고자에게 문서 스타일 조언.
 
 * **로컬환경에서의 실행** : contributor의 개발 환경에서 실행 방법
+
+## Operation 가이드
+* Logging and Monitoring
+* Maintenance, Failure and Debugging
+* (Network) Trouble Shooting
+* Backup and Recovery
+* Configuration and Upgrade
+
+## Repo 운영 프로세스
+Repogitory 운영 프로세스 상세 내용
