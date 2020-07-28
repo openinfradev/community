@@ -17,7 +17,7 @@ HANU는 오픈스택과 쿠버네티스 upstream project를 기반으로, 국내
 
 
 ## Code of Conduct
-자세한 내용은 [Code of Conduct](code-of-conduct.me)를 참조하십시오.
+자세한 내용은 [Code of Conduct](code-of-conduct.m)를 참조하십시오.
 
 
 
