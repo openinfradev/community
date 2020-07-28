@@ -1,9 +1,6 @@
 # 목차
 
 개발자 안내서는 코드에 직접 액세스하는 코드를 작성하려는 사람을위한 것입니다.
-Kubernetes API 또는 Kubernetes 프로젝트에 직접 기여합니다.
-[User Guide] (http://kubernetes.io/docs/user-guide/) 및 [Cluster Admin의 개념에 익숙한 것으로 가정합니다.
-안내] (http://kubernetes.io/docs/admin/).
 
 
 ## Kubernetes 프로젝트에 코드를 개발하고 제공하는 프로세스
