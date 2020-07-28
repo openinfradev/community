@@ -9,11 +9,6 @@ HANU 프로젝트의 구성을 이해하고 시작하기 가장 좋은 곳으로
 HANU에 오신 것을 환영합니다! 이 안내서는 다음 섹션으로 구성되어 있습니다.
 다음 단계를 순서대로 따르는 것이 좋습니다. 
 
-- [Welcome](#welcome) - 지금 보고 있느 페이지...
-- [Prerequisites](#prerequisites) - 기여하기 전에 완료해야 할 사항
-- [Your First Contribution](first-contribution.md) - 첫 번째 기여 전에 알아야 할 사항
-- [Contributing](contributing.md) - 기고자 정보가 포함 된 기본 안내서
-
 
 # Prerequisites
 
