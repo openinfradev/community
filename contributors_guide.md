@@ -39,8 +39,7 @@ Please make sure to read and observe our [Code of Conduct](/code-of-conduct.md) 
 HANU는 커뮤니티 프로젝트입니다.
 결과적으로 생산적이고 재미있으며 협력적인 환경을 제공하는 것을 지향하며 모든 활동은 커뮤니티를 통해서 진행할 것입니다.
 
--코드 이해 및 발전방향 검토를 위해 [커뮤니티 기대](expectations.md)를 읽고 검토하십시오.
--기고자 역할의 다양한 책임 목록은 [커뮤니티 멤버쉽] (community-membership.md)을 참조하십시오. 경험이 쌓이면이 맴버쉽의 레벨업이 될 수 있습니다. 당신도 CODE_GURU가 되어 보세요
+-기고자 역할의 다양한 책임 목록은 [커뮤니티 멤버쉽] (membership.md)을 참조하십시오. 경험이 쌓이면이 맴버쉽의 레벨업이 될 수 있습니다. 당신도 CODE_GURU가 되어 보세요
 
 ## Contributor Workshops
 
@@ -49,7 +48,7 @@ HANU는 커뮤니티 프로젝트입니다.
 # Community
 
 우리는 새로운 사람들이 회원이되고 정기적으로 코드를 기고하는 사람이되기 때문에 우리와 함께 하시길 바랍니다!
-[커뮤니티 멤버십 문서] (/community-membership.md)는 멤버십 프로세스 및 역할에 대한 내용을 참고하세요.
+[커뮤니티 멤버십 문서] (/membership.md.md)는 멤버십 프로세스 및 역할에 대한 내용을 참고하세요.
 
 ## Communication
 
