@@ -50,15 +50,8 @@ HANU 커뮤니티는 [HANU 행동 수칙](code-of-conduct.md)을 준수합니다
 HANU github의 모든 새로운 리포지토리는 [HANU 리포지토리 지침](repository.md)에 설명 된 프로세스를 따라야합니다. 
 
 ## Membership
-* 오픈소스 기여 유형
+* [Membership](membership.md) 상세 페이지 
 
-## 오픈소스 프로젝트 관리 구조
-(오픈소스 프로젝트는 관리방식 / 본 커뮤니티는 다수의 Contributors이 모여 코드를 작성하고 안정적인 제품을 만들어 내기 위하여 명확한 거버넌스 체계를 구축하고 있습니다. 등의 설명 작성) 
-
-* 거버넌스 구조
-* 문서 구조
-
-## 커뮤니티 가입하기 
 
 
 ## Contact
