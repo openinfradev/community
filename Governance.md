@@ -52,7 +52,10 @@ HANU github의 모든 새로운 리포지토리는 [HANU 리포지토리 지침]
 ## Membership
 * [Membership](membership.md) 상세 페이지 
 
+## License 
+[HANU는 Apache-2.0을 사용한다는 간단한 정의](licencing-requirement.md)
 
-
+## CLA 
+기여자에게 CLA를 요구할 것인지 먼저 결정 필요. 요구한다면, 어떤 CLA를 사용할 것인지 결정
 ## Contact
    - 추후 [업데이트](Contact.md)
