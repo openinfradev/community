@@ -23,6 +23,7 @@
 
 설명 
 
+
 ### Goals
 
 To
@@ -74,13 +75,15 @@ To
 ## Removing Repositories
 설명
 
+
 ## FAQ
    * 
    *
 
 
 **질문 1**
-답변1
+
+ 답변1
 
 
 **질문2**
@@ -89,4 +92,8 @@ To
 
 
 
+
 맺는말 (if needed) 
+
+
+
