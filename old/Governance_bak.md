@@ -10,9 +10,6 @@ HANU는 오픈스택과 쿠버네티스 upstream project를 기반으로, 국내
 
 
 
-## Projects
-- 추진 프로젝트 
-- 사업 전개 결과 
 
 
 
@@ -37,7 +34,7 @@ HANU는 오픈스택과 쿠버네티스 upstream project를 기반으로, 국내
  
  
 ##  Build and Release 
-    - PM(Project Management) & TLP(Top Level Project)
+
 
  
 
