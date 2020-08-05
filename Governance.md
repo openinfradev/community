@@ -5,7 +5,7 @@
 - 또한 국내 기업과 엔지니어들이 협업하여, 국내에 지원체계를 구축하여 오픈소스  생태계를 확장하는데 기여한다. 
 
 ## Principles and Goals
-HANU 커뮤니티는 다음 원칙을 준수합니다.
+HANU 커뮤니티는 다음 [원칙](principles_and_goals.md)을 준수합니다.
 * 공개 : HANU 공개 소스입니다.
 * 환영과 존중 : 아래 행동 강령을 참조하십시오.
 * 투명성 : 작업 및 공동 작업은 공개적으로 수행해야합니다.
@@ -43,12 +43,12 @@ HANU 커뮤니티는 [HANU 행동 수칙](code-of-conduct.md)을 준수합니다
 
 
 ##  Contributions
-[Contributor 가이드](contributors_guide.md)를 참고하세요
+[Contributor 가이드](contributions.md)를 참고하세요
 
 
 ## Repository 
-HANU github의 모든 새로운 리포지토리는 [HANU 리포지토리 지침](contributors_devel_guide.md)에 설명 된 프로세스를 따라야합니다.
+HANU github의 모든 새로운 리포지토리는 [HANU 리포지토리 지침](repository.md)에 설명 된 프로세스를 따라야합니다
 
 
 ## Contact
-   - 추후 업데이트
+   - 추후 [업데이트](Contact.md)
