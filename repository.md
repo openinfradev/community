@@ -26,7 +26,6 @@
 
 ### Goals
 
-To
 설명
 
 
@@ -42,7 +41,7 @@ To
 
 ### Goals
 
-설명
+  설명
 
 ### Rules for new repositories
 
@@ -51,9 +50,10 @@ To
    
 ### Rules for donated repositories
 
-설명 
+   설명 
+   
 
-조건 
+   조건 
 
    * 
    *
@@ -65,7 +65,7 @@ To
 
 ### Goals
 
-설명
+   설명
 
 ### Rules
 
@@ -73,7 +73,7 @@ To
    *
 
 ## Removing Repositories
-설명
+   설명
 
 
 ## FAQ
@@ -83,12 +83,12 @@ To
 
 **질문 1**
 
- 답변1
+  답변1
 
 
 **질문2**
 
- 답변2
+  답변2
 
 
 
