@@ -1,6 +1,11 @@
-c필요시 참조) https://github.com/kubernetes/community/blob/master/contributors/guide/github-workflow.md
-
-
+---
+title: "GitHub Workflow"
+weight: 6
+description: |
+  An overview of the GitHub workflow used by the Kubernetes project. It includes
+  some tips and suggestions on things such as keeping your local environment in
+  sync with upstream and commit hygiene.
+---
 
 ![Git workflow](git_workflow.png)
 
