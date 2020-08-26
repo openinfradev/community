@@ -12,11 +12,9 @@ HANU 커뮤니티는 다음 원칙을 준수합니다.
 * 조율 : 창의적인 아이디어와 기여는 기술적 방향성과 프로젝트 목표에 따라 조정이 됩니다.
 * 회식 : 커뮤니티를 위한 모든 좋은 아이디어는 회식자리에서 공유합니다.\
 
-
 ## Code of Conduct
 
-HANU 커뮤니티는 [HANU 행동 수칙](code-of-conduct.md)을 준수합니다.
-
+HANU 커뮤니티는 [HANU 행동 수칙](../code-of-conduct.md)을 준수합니다.
 
 ## Organization
 
@@ -27,27 +25,23 @@ HANU 커뮤니티는 [HANU 행동 수칙](code-of-conduct.md)을 준수합니다
 * Committees
 * User Groups
 
-
-## Operation Guide 
-[코드 운영 및 개발에 대한 가이드](contributors_devel_guide.md)를 참고하세요
+## Development Guide 
+개발 환경 구축, 빌드, 배포에 대한 내용은 [개발가이드](../developing/README.md)를 참고하세요
 .md)를 참고하세요
+   - Build and release
    - Logging and Monitoring 
    - Maintenance, Failure and Debugging 
    - (Network) Trouble Shooting 
    - Backup and Recovery 
    - Configuration and Upgrade 
    
-   
-##  Build and Release 
-[코드 운영 및 개발에 대한 가이드](contributors_devel_guide.md)를 참고하세요
-
 
 ##  Contributions
-[Contributor 가이드](contributions.md)를 참고하세요
+HANU 프로젝트는 여러분의 기여를 적극적으로 환영합니다. 기여를 원하시는 분은 [Contributor 가이드](contributing.md)를 참고하세요. 
 
 
 ## Repository 
-HANU github의 모든 새로운 리포지토리는 [HANU 리포지토리 지침](repository.md)에 설명 된 프로세스를 따라야합니다. 
+HANU github의 모든 새로운 리포지토리는 [HANU 리포지토리 지침](../developing/repository.md)에 설명 된 프로세스를 따라야합니다. 
 
 ## Membership
 * [Membership](membership.md) 상세 페이지 
@@ -57,5 +51,6 @@ HANU github의 모든 새로운 리포지토리는 [HANU 리포지토리 지침]
 
 ## CLA 
 기여자에게 CLA를 요구할 것인지 먼저 결정 필요. 요구한다면, 어떤 CLA를 사용할 것인지 결정
+
 ## Contact
    - 추후 [업데이트](Contact.md)
