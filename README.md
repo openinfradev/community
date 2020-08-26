@@ -2,7 +2,7 @@
 
 HANU 커뮤니티에 오신 것을 환영합니다!
 
-이는 문서 개선, 코드 개선, 대화 등 HANU 커뮤니티에 참여하고 기여하기위한 출발점입니다.
+> (HANU 소개 글 추가 필요)
 
 ## 거버넌스
 
@@ -22,20 +22,23 @@ HANU에는 공식적으로 지원되는 다음과 같은 유형의 그룹이 있
   많은 HANU 사용자 그룹과 장기적으로 관련이있는 Summit, 회의에 참여할 수 있습니다.
   HANU 코드베이스의 일부에 대한 소유권이 없습니다.
 
-이러한 그룹에 대한 자세한 내용은 [full governance doc](governance.md)을 참조하십시오.
+이러한 그룹에 대한 자세한 내용은 [거버넌스 문서](governance/README.md)를 참조하십시오.
 
 
 ## Learn to Build
 
-[contributor 개발 가이드](contributors_devel_guide.md)에 많은 관련 기술 주제로 연결됩니다.
+빌드 방법 등 개발 관련 주제는 [개발 가이드](developing/README.md)를 참조하세요.
 
 
 ## Contribute
 
-Contribute의 첫 단계는 Github에 가입하고 코드를 Clon하느 것에서 부터 시작합니다.
+Contribute의 첫 단계는 Github에 가입하고 코드를 Clon하는 것에서 부터 시작합니다.
+
+> (실제 상황에 맞추어 보완 필요)
+
 이후 HANU Project 목록에서 관심있는 프로젝트를 선택하세요. (sig-list.md)에서 선택하는 것입니다.
 SIG 회의 참석을 시작하고, 여유 채널에 참여하고 메일 링리스트에 가입하십시오.
-그리고 [Contributor Guide](contributors_guide.md)를 확인하고 아래의 내용에 따라 HANU를 창의적으로 발전시켜 주세요.
+그리고 [Contributor Guide](governance/README.md)를 확인하고 아래의 내용에 따라 HANU를 창의적으로 발전시켜 주세요.
 
 1. HANU 커뮤니티에 가입을 하고
 2. 이슈를 선택하고
@@ -45,6 +48,8 @@ SIG 회의 참석을 시작하고, 여유 채널에 참여하고 메일 링리�
 
 ## 회원 가입
 
+> (실제 상황에 맞추어 보완 필요)
+
 모든 Contributor는 회원이되도록 권장합니다. 
 우리는 적극적이고 건강한 Contributor는, Reviewer 및 Code Owner의 커뮤니티를 성장시키는 것을 목표로합니다. 
-[커뮤니티 멤버쉽] 페이지에서 멤버십의 요구 사항과 책임에 대해 자세히 알아보십시오.
+[커뮤니티 멤버쉽](governance/membership.md) 페이지에서 멤버십의 요구 사항과 책임에 대해 자세히 알아보십시오.
