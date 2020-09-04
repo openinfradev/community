@@ -1,56 +1,56 @@
-세부 거버넌스는 작업중에 있으며 계속 발전시켜 나갈 예정입니다.
+# HANU Community Governance
+
+HANU Community의 Governance에 대해 소개합니다. 
+
+
 
 ## Our Mission 
-- HANU는 오픈스택과 쿠버네티스 upstream project를 기반으로, 국내 기업과 엔지니어들이 주축이 되어, 그 project를 국내에서 활성화하여 upstream에 기여하는것에 그 가치를 둔다.
-- 또한 국내 기업과 엔지니어들이 협업하여, 국내에 지원체계를 구축하여 오픈소스  생태계를 확장하는데 기여한다. 
+- HANU Community는 [OpenStack](https://www.openstack.org/)과 [Kubernetes](https://kubernetes.io/)를 쉽게 활용할 수 있는 환경을 구축하여 국내 Community를 확장하고 다시 Upstream에 기여하여 오픈소스 생태계에 기여합니다. 
+- 한국의 기업과 오픈소스 개발자들이 협업하여 OpenStack 및 Kubernetes 지원체계를 구축하여 국내 오픈소스 생태계를 확장하는데 기여합니다. 
 
-## Principles and Goals
-HANU 커뮤니티는 다음 원칙을 준수합니다.
-* 공개 : HANU 공개 소스입니다.
-* 환영과 존중 : 아래 행동 강령을 참조하십시오.
-* 투명성 : 작업 및 공동 작업은 공개적으로 수행해야합니다.
-* 조율 : 창의적인 아이디어와 기여는 기술적 방향성과 프로젝트 목표에 따라 조정이 됩니다.
-* 회식 : 커뮤니티를 위한 모든 좋은 아이디어는 회식자리에서 공유합니다.\
+## Principles
+
+HANU Community는 다음 원칙을 준수합니다.
+
+* 공개 : HANU는 모든 소스 코드를 [Apache-2.0](https://spdx.org/licenses/Apache-2.0.html)으로 공개한 오픈소스 입니다. 
+* 환영과 존중 : HANU는 [Code of Conduct](#code-of-conduct) 준수하는 모든 구성원을 환영하고 존중합니다. 
+* 투명성 : HANUd의 모든 개발 과정은 투명하게 공개합니다. 
+* 조율 : 창의적인 아이디어와 기여는 기술적 방향성과 프로젝트 목표에 따라 조율이 될 수 있습니다.
+* 회식 : HANU는 한국의 독특한 문화인 회식을 주기적으로 시행합니다. 단, 회식자리에서 발생한 협업, 조율, 아이디어들도 역시 투명하게 문서화하여 공개합니다. 
 
 ## Code of Conduct
 
-HANU 커뮤니티는 [HANU 행동 수칙](../code-of-conduct.md)을 준수합니다.
+HANU Community의 모든 구성원은 [HANU Code of Conduct](../code-of-conduct.md)를 준수해야 합니다. 
+
 
 ## Organization
 
-프로젝트는 다음 유형의 하위 그룹으로 구성됩니다.
-자세한 내용은  [조직 및 맴버쉽](membership.md)을 참고하세요.
-* Project ManagementGroup
-* Working Groups
+HANU Community의 효과적인 운영을 위해 아래와 같은 Group을 운영합니다. 
+
 * Committees
+* Special Interest Group
+* Working Groups=
 * User Groups
 
-## Development Guide 
-개발 환경 구축, 빌드, 배포에 대한 내용은 [개발가이드](../developing/README.md)를 참고하세요
-.md)를 참고하세요
-   - Build and release
-   - Logging and Monitoring 
-   - Maintenance, Failure and Debugging 
-   - (Network) Trouble Shooting 
-   - Backup and Recovery 
-   - Configuration and Upgrade 
-   
+Group에 대한 자세한 사항은 다음 페이지를 참고하세요. : [Group](./group.md)
 
-##  Contributions
-HANU 프로젝트는 여러분의 기여를 적극적으로 환영합니다. 기여를 원하시는 분은 [Contributor 가이드](contributing.md)를 참고하세요. 
+
+## Membership
+
+HANU Community는 아래와 같은 Member에 의해 자율적으로 운영되고 있습니다. 
+
+* Maintainer
+* Committer
+* Contributor
+* User
+
+Membership에 대한 자세한 내용은 다음 페이지를 참고하세요. : [Membership](./membership.md)
 
 
 ## Repository 
-HANU github의 모든 새로운 리포지토리는 [HANU 리포지토리 지침](../developing/repository.md)에 설명 된 프로세스를 따라야합니다. 
 
-## Membership
-* [Membership](membership.md) 상세 페이지 
+HANU Community의 모든 활동은 GitHub에 투명하게 공개합니다. 
 
-## License 
-[HANU는 Apache-2.0을 사용한다는 간단한 정의](licencing-requirement.md)
+HANU의 GitHub은 여기에 있습니다. : [https://github.com/openinfradev](https://github.com/openinfradev)
 
-## CLA 
-기여자에게 CLA를 요구할 것인지 먼저 결정 필요. 요구한다면, 어떤 CLA를 사용할 것인지 결정
-
-## Contact
-   - 추후 [업데이트](Contact.md)
+이 곳의 모든 Repository는 [HANU Repository Policy](./repository.md)에 따라 생성/관리/삭제됩니다. 

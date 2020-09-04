@@ -1,4 +1,4 @@
-# Organization
+# Group
 
 Ex) Governance diagram
 

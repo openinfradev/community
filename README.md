@@ -9,6 +9,15 @@ HANU Community에 오신 것을 환영합니다!
 
 이 공간은 HANU Community내의 Project 들의 오픈소스 개발 방식에 공통적으로 적용되는 내용들을 제공합니다. 
 
+- [HANU Community](#hanu-community)
+  - [Governance](#governance)
+  - [How to Use](#how-to-use)
+  - [How to Develop](#how-to-develop)
+  - [How to Contribute](#how-to-contribute)
+  - [Communication](#communication)
+  - [License](#license)
+  - [Support](#support)
+
 ## Governance
 
 HANU Community는 잘 정의된 Membership과 Group 을 갖고 있습니다. HANU Community에 속한 Project들은 이러한 Governence 체계에 따라 운영됩니다. 자세한 내용은 [Governance](governance/README.md)를 살펴보세요.
