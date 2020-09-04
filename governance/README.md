@@ -51,6 +51,6 @@ Membership에 대한 자세한 내용은 다음 페이지를 참고하세요. : 
 
 HANU Community의 모든 활동은 GitHub에 투명하게 공개합니다. 
 
-HANU의 GitHub은 여기에 있습니다. : [https://github.com/openinfradev](https://github.com/openinfradev)
+* HANU의 GitHub은 여기에 있습니다. : [https://github.com/openinfradev](https://github.com/openinfradev)
 
 이 곳의 모든 Repository는 [HANU Repository Policy](./repository.md)에 따라 생성/관리/삭제됩니다. 
