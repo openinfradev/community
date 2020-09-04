@@ -2,6 +2,8 @@
 
 HANU Community에 오신 것을 환영합니다!
 
+[!logo](./assets/logo/hanu-logo.png)
+
 > (HANU 소개 글 추가 필요)
 > * HANU는 ...
 > * ...

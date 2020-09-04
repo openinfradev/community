@@ -21,10 +21,8 @@ HANU의 Project는 Master Branch의 안정성 유지를 위해 Unit Test, Integr
 * Unit Test
 * Integration Test
 * End-to-End Test
-* Conformance Test
 
 각 Test의 절차 및 요구사항을 다음 페이지에서 자세히 설명합니다. : [Testing Guide](test.md)
-
 
 
 
