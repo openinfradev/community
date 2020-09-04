@@ -11,7 +11,7 @@ HANU Community에 오신 것을 환영합니다!
 
 ## Governance
 
-HANU Community는 잘 정의된 Membership과 Group 을 갖고 있습니다. HANU Community에 속한 Project들은 이러한 Governence 체계에 따라 운영됩니다. 자세한 내용은 [Governance]](governance/README.md)를 살펴보세요.
+HANU Community는 잘 정의된 Membership과 Group 을 갖고 있습니다. HANU Community에 속한 Project들은 이러한 Governence 체계에 따라 운영됩니다. 자세한 내용은 [Governance](governance/README.md)를 살펴보세요.
 
 ## How to Use
 
