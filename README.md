@@ -1,3 +1,5 @@
+> develop branch에서 개선 작업 진행 중입니다. : https://github.com/openinfradev/community-draft/tree/develop
+
 # HANU 커뮤니티
 
 HANU 커뮤니티에 오신 것을 환영합니다!
