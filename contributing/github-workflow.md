@@ -122,7 +122,7 @@ Commit을 revert하고자 할때는 다음 안내를 따르세요.
   ```
   git push ${your_remote_name} myrevert
   ```
-* 이제 [Create a Pull Request](#7-create-a-pull-request) 합니다. 
+* 이제 [Create a Pull Request](#step-7-create-a-pull-request) 합니다. 
 
 
 ---
