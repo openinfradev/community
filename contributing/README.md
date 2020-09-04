@@ -12,7 +12,7 @@ HANU Community에 기여하기 전에 몇가지 확인해야 할 사항들이 �
 
 ### Sign the CLA
 
-HANU Community는 예기치 않은 법적 문제를 방지하기 위해 기여자에게 [Contributor License Agreement](../../community-draft/CLA.md)의 서명을 받고 있습니다. 기여자가 CLA에 서명함으로 HANU Community의 모든 Project는 누구나 법적인 문제 없이 자유롭게 사용하고 배포할 수 있게 됩니다.  
+HANU Community는 예기치 않은 법적 문제를 방지하기 위해 기여자에게 [Contributor License Agreement](../CLA.md)의 서명을 받고 있습니다. 기여자가 CLA에 서명함으로 HANU Community의 모든 Project는 누구나 법적인 문제 없이 자유롭게 사용하고 배포할 수 있게 됩니다.  
 
 ### Code of Conduct
 
@@ -26,7 +26,7 @@ HANU Community는 모든 구성원을 환영하고 존중합니다. 이러한 �
 
 HANU Community는 GitHub Workflow에 따라 기여를 제출하고 검토 및 Merge합니다. 
 
-다음 페이지에서 HANU Community의 [GitHub Workflow](.github-workflow.md)를 확인하세요. 
+다음 페이지에서 HANU Community의 [GitHub Workflow](github-workflow.md)를 확인하세요. 
 
 ---
 
