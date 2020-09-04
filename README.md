@@ -39,7 +39,7 @@ HANU Commnity 내 Project를 개발하기 위해 공통적으로 필요한 내�
 
 ## How to Contribute
 
-HANU Community는 모든 소스 코드와 문서가 완전히 공개하고 커뮤니티 구성원이 협업하는 오픈소스 개발 방식을 따릅니다. 여러분의 소중한 기여로 HANU Community의 Project는 성장할 수 있습니다. 
+HANU Community는 모든 소스 코드와 문서를 완전히 공개하고 커뮤니티 구성원이 협업하여 개발하는 오픈소스 개발 방식을 따릅니다. 여러분의 소중한 기여로 HANU Community의 Project는 성장할 수 있습니다. 
 
 여기서는 HANU Project에 기여하기 위한 방법을 자세히 설명합니다. : [Contributing](contributing/README.md)
 
