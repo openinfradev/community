@@ -8,7 +8,9 @@ HANU의 Project는 Master Branch의 안정성 유지를 위해 Unit Test, Integr
 
 Unit Test는 특정 모듈이 의도된 대로 정상적인 동작을 하는지 테스트 절차입니다. HANU Project의 모든 Package나 주요 파일은 Unit Test를 작성하고 수행해야 합니다. 
 
-> 개발자는 다음 사항에 대한 확인 및 추가 작성이 필요합니다. 
+새로운 Package나 주요 기능을 추가한 경우 반드시 Unit Test에도 추가해야 합니다. 
+
+> `need-to-improve` 다음 사항에 대한 확인 및 추가 작성이 필요합니다. 
 > 
 > * Unit Test 수행 환경 구축 
 > * Unit Test 개발 가이드 작성
@@ -34,7 +36,7 @@ Integration Test는 각각의 Package들이 상호작용하여 정상적인 동�
 Integration Test에 대한 방법은 다음과 같습니다. 
 
 
-> 개발자는 다음 사항에 대한 확인 및 추가 작성이 필요합니다. 
+> `need-to-improve` 다음 사항에 대한 확인 및 추가 작성이 필요합니다. 
 > 
 > * Integration Test 수행 환경 구축
 > * Integration Test 수행 방법 가이드 작성
@@ -63,7 +65,7 @@ e2e Test의 절차 및 방법은 다음과 같습니다.
 
 
 
-> 개발자는 다음 사항에 대한 확인 및 추가 작성이 필요합니다. 
+> `need-to-improve` 다음 사항에 대한 확인 및 추가 작성이 필요합니다. 
 > 
 > * e2e Test 수행 환경 구축
 > * e2e Test 수행 방법 가이드 작성

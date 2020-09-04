@@ -2,8 +2,6 @@
 
 HANU Community의 Governance에 대해 소개합니다. 
 
-
-
 ## Our Mission 
 - HANU Community는 [OpenStack](https://www.openstack.org/)과 [Kubernetes](https://kubernetes.io/)를 쉽게 활용할 수 있는 환경을 구축하여 국내 Community를 확장하고 다시 Upstream에 기여하여 오픈소스 생태계에 기여합니다. 
 - 한국의 기업과 오픈소스 개발자들이 협업하여 OpenStack 및 Kubernetes 지원체계를 구축하여 국내 오픈소스 생태계를 확장하는데 기여합니다. 
@@ -54,3 +52,6 @@ HANU Community의 모든 활동은 GitHub에 투명하게 공개합니다.
 * HANU의 GitHub은 여기에 있습니다. : [https://github.com/openinfradev](https://github.com/openinfradev)
 
 이 곳의 모든 Repository는 [HANU Repository Policy](./repository.md)에 따라 생성/관리/삭제됩니다. 
+
+
+HANU Community의 Governance에 대해 문의나 의견이 있을 경우 [Issue](https://github.com/openinfradev/community-draft/issues/new)를 생성해주세요. 

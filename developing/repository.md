@@ -1,5 +1,7 @@
 # Repository Guidelines
 
+> `need-to-improve` 
+
 이 문서는 GitHub 저장소 생성 및 삭제 방법 그리고  OpenStack project 연결 구조에 관해 개략적으로 설명합니다. 
 
  본 페이지의 목적 및 이동/변경/생성 관련 규정

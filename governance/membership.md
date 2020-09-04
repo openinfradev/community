@@ -1,4 +1,7 @@
-# Community membership
+# Membership
+
+> `need-to-improve` 
+
 
 **Note:** This document is in progress
 

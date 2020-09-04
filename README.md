@@ -2,9 +2,9 @@
 
 HANU Community에 오신 것을 환영합니다!
 
-![hanu-logo](./assets/logo/hanu-logo.png)
+![hanu-logo](./assets/logo/hanu-logo-temp.png)
 
-> (HANU 소개 글 추가 필요)
+> `need-to-improve`  (HANU 소개 글 추가 필요)
 > * HANU는 ...
 > * ...
 > * ...
@@ -28,9 +28,9 @@ HANU Community는 잘 정의된 Membership과 Group 을 갖고 있습니다. HAN
 
 HANU Community 내 Project는 각각의 READE에서 사용/설치/운영 방법을 자세히 소개합니다. 
 
-* DECAPOD : 
-* ... :
-* ... :
+> `need-to-improve` * DECAPOD : 
+> * ... :
+> * ... :
 
 ## How to Develop
 

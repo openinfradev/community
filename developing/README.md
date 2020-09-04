@@ -25,6 +25,11 @@ HANU의 Project는 Master Branch의 안정성 유지를 위해 Unit Test, Integr
 각 Test의 절차 및 요구사항을 다음 페이지에서 자세히 설명합니다. : [Testing Guide](test.md)
 
 
+## Coding Convention
+
+HANU Community내 Project의 소스 코드 작성 시 준수해야 할 Coding Style 있습니다. HANU Project 소스 코드의 일관성과 가독성을 위해 기여자 분들은 가능한 이 Coding Convention을 따라주세요. : [Coding Convention](coding-convention.md)
+
+
 
 ## 개발 / 기여 프로세스
 
