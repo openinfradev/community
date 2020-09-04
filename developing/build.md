@@ -37,4 +37,6 @@ Docker를 통해 빌드하는 것 보다는 수고스러울 수 있지만 Local�
 <br>
 <br>
 
+---
+
 빌드 과정에 문의나 의견이 있을 경우 [Issue](https://github.com/openinfradev/community-draft/issues/new)를 생성해주세요. 
