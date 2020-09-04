@@ -1,6 +1,8 @@
 # Development Guide
 
-HANU Community 개발자 여러분! HANU는 모든 소스 코드 뿐만 아니라 전체 개발 과정을 자세히 문서화하여 GitHub에 공개하고 있습니다. 누구나 HANU에 관심이 있는 분은 아래 문서들을 참고하여 개발에 참여하여 자신의 역량을 쌓을 수 있을 뿐만 아니라 한국의 오픈소스 생태계에 기여할 수 있습니다. HANU는 한국의 오픈소스 개발자 분들과 함께합니다!
+HANU Community 개발자 여러분! 
+
+HANU는 모든 소스 코드 뿐만 아니라 전체 개발 과정을 자세히 문서화하여 GitHub에 공개하고 있습니다. 누구나 HANU에 관심이 있는 분은 아래 문서들을 참고하여 개발에 참여하여 자신의 역량을 쌓을 수 있을 뿐만 아니라 한국의 오픈소스 생태계에 기여할 수 있습니다. HANU는 한국의 오픈소스 개발자 분들과 함께합니다!
 
 HANU Community에는 여러개의 Project가 있으며 모두 공통적으로 아래의 개발 절차를 준수합니다.  
 
@@ -10,7 +12,7 @@ HANU Community의 주오 Project는 Docker 기반 빌드 환경을 제공합니�
 
 다음 페이지에 Project Build를 위한 공통적으로 설치가 요구되는 사항을 정리하였으니 참고하세요. [How to Build](./build.md)
 
-## How to Test
+## Testing Guide
 
 HANU Community의 주요 Project는 다음과 같은 Test를 통해 개발/배포합니다. 기여를 준비하는 오픈소스 개발자 분들은 자신의 개발 결과가 HANU의 Project에 이상없이 반영할 수 있을지에 대해 Unit Test와 Integration Test를 통해 확인할 수 있습니다. 
 
