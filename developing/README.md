@@ -30,52 +30,15 @@ HANU의 Project는 Master Branch의 안정성 유지를 위해 Unit Test, Integr
 HANU Community내 Project의 소스 코드 작성 시 준수해야 할 Coding Style 있습니다. HANU Project 소스 코드의 일관성과 가독성을 위해 기여자 분들은 가능한 이 Coding Convention을 따라주세요. : [Coding Convention](coding-convention.md)
 
 
+## CI/CD
 
-## 개발 / 기여 프로세스
-
-HANU의 각 Project에 직접 개발에 참여하고 기여하기 위해서는 기본적으로 아래의 내용에 익숙해지시기 바랍니다. 
-
-* [CONTRIBUTING](../contributing/README.md) : HANU에 기여하기 위한 방법
-* [Pull Request](../contributing/pull-requests.md) : Pull Request 절차
-* []
-
-HANU 프로젝트에 코드를 개발하고 제공하는 프로세스
-
-* **Contributor Guide**
-  ([여기에서 시작하십시오] (/ tributors / guide / README)
-.md)) Kubernetes에 기여하는 방법에 대해 알아보기
-
-* **GitHub Issues** : 들어오는 문제가 심사되는 방식.
-
-* **Pull Request Process** : 풀 요청이 언제, 왜 닫힙니다.
-
-* **Getting Recent Builds** : CI를 통과 한 최신 빌드를 포함하여 최근 빌드를 얻는 방법.
-
-* **Automated Tools** : github 리포지토리에서 실행중인 자동화에 대한 설명입니다.
+HANU Community는 Continuous Integration / Continuous Deployment를 위한 자동화 환경을 구축하고 있습니다. HANU의 CI/CD에 대한 자세한 사항은 다음 페이지를 참고하세요. : [CI/CD](ci-cd.md)
 
 
-## 개발 환경 설정, 코딩 및 디버깅
+## Release
 
-* **개발 안내서** : 개발 환경 설정.
+HANU Community내 Project의 Release 정책과 절차에 대한 자세한 내용은 다음 페이지를 참고하세요. : [Release](release.md)
 
-* *Testing** : 개발 샌드 박스에서 단위, 통합 및 엔드 투 엔드 테스트를 실행하는 방법.
-
-* **Logging Conventions** : klog 레벨.
-
-* **Coding Conventions** : contributor를 위한 코딩 스타일 조언.
-
-* **문서 규약** : 기고자에게 문서 스타일 조언.
-
-* **로컬환경에서의 실행** : contributor의 개발 환경에서 실행 방법
-
-## Operation 가이드
-* Logging and Monitoring
-* Maintenance, Failure and Debugging
-* (Network) Trouble Shooting
-* Backup and Recovery
-* Configuration and Upgrade
-
-## Repo 운영 프로세스
-Repogitory 운영 프로세스 상세 내용
+---
 
 HANU Community에서의 개발 과정에 문의나 의견이 있을 경우 [Issue](https://github.com/openinfradev/community-draft/issues/new)를 생성해주세요. 

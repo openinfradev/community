@@ -1,4 +1,5 @@
-< `need-to-improve` >
+> `need-to-improve` >
+> 필요한 시점에 작성
 
 # Targeting enhancements, Issues and PRs to Release Milestones (필요시 제목 수정) 
 
