@@ -22,11 +22,53 @@ HANU Community는 모든 구성원을 환영하고 존중합니다. 이러한 �
 
 [Development Guide](../developing/README.md)에서는 개발 환경 구축, 빌드, 테스트 등 개발에 참여하기 위해 필요한 내용을 자세히 안내합니다.
 
+
 ## GitHub Workflow
 
 HANU Community는 GitHub Workflow에 따라 기여를 제출하고 검토 및 Merge합니다. 
 
 다음 페이지에서 HANU Community의 [GitHub Workflow](github-workflow.md)를 확인하세요. 
+
+
+## Testing
+
+HANU Community의 신뢰성과 안정성을 위해 모든 기여자는 기여를 제출하기 전에 Test를 수행해야 합니다. HANU Community는 다음과 같은 형태의 Test를 수행하고 있습니다. 
+
+* Unit : 특정 기능이 정상적으로 동작하는지 확인합니다.
+* Integration : Package들간의 동작이 정상적인지 확인합니다. 
+* End-to-end ("e2e") : 전체 시스템이 정상적으로 동작하는지 확인합니다. 
+  
+Test와 관련한 자세한 사항은 다음 페이지를 참고하세요. : [Testing Guide](../developing/test.md) 
+
+
+## Pull Request 프로세스
+
+HANU Community에 Pull Request를 제출하면 어떤일이 벌어질까요? 
+
+어떤 Pull Request가 쉽게 merge가 될 수 있을까요? 
+
+이에 대한 자세한 설명을 다음 페이지에서 참고하세요. : [Pull Request 프로세스](pull-requests.md)
+
+
+## Code Review
+
+Code Review는 Code의 가독성과 품질을 높여서 신뢰할 수 있는 HANU Community의 Project가 되기 위해 꼭 필요한 절차입니다.  
+
+Code Review 과정의 절차와 역할은 각각 다음 페이지에서 확인하실 수 있습니다. 
+
+* 절차 : [Pull Request 프로세스](pull-requests.md)
+* 역할 : [Membership](../governance/membership.md) 
+
+Reviewer에게 좋은 Review 결과를 얻기 위해서는 다음 사항을 유념하세요. 
+
+* [Coding Convention](../developing/coding-convention.md)을 따르세요.
+* [Commit Message](https://chris.beams.io/posts/git-commit/)는 간단 명료하면서도 Reviewer가 변경 사항을 쉽게 이해할 수 있도록 충분한 정보를 포함하여 작성하세요.
+* 변경 사항이 많다면 이를 논리적인 일련의 작은 패치로 나누어서 변경 사항을 이해하기 쉽게 만드세요.
+
+
+## Documentation
+
+
 
 ---
 
