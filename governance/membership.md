@@ -1,7 +1,8 @@
 # Membership
 
 > `need-to-improve` 
-
+> * 멤버쉽 어떻게 구성할지에 대한 결정 필요 
+> * 참고 : https://github.com/kubernetes/community/blob/master/community-membership.md
 
 **Note:** This document is in progress
 

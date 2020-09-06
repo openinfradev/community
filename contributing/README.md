@@ -15,7 +15,10 @@ HANU는 모든 소스 코드와 문서를 완전히 공개하고 커뮤니티 �
   - [Testing](#testing)
   - [Pull Request 프로세스](#pull-request-프로세스)
   - [Code Review](#code-review)
+  - [Security](#security)
   - [Documentation](#documentation)
+  - [Issue 관리 / 분류](#issue-관리--분류)
+  - [](#)
   
 
 ## Prerequisites
@@ -78,11 +81,29 @@ Reviewer에게 좋은 Review 결과를 얻기 위해서는 다음 사항을 유�
 * 변경 사항이 많다면 이를 논리적인 일련의 작은 패치로 나누어서 변경 사항을 이해하기 쉽게 만드세요.
 
 
+## Security
+
+> `need-to-improve` >
+> * 보안취약점 이슈에 대해 어떻게 관리할 지에 대한 검토 필요. 
+> * 참고 :  https://github.com/kubernetes/community/blob/master/contributors/guide/issue-triage.md
+> * 필요한 시점에 작성합니다. 
+
 ## Documentation
 
 > `need-to-improve` >
 > * User Guide를 위한 웹사이트를 구축한다면, 문서화에 기여하는 방법을 여기에 추가해야함
 > * 필요한 시점에 작성합니다. 
+
+
+## Issue 관리 / 분류
+
+> `need-to-improve` >
+> * Issue 분류 체계를 가지고 갈 것인지 검토 필요. 
+> * 참고 자료 : https://github.com/kubernetes/community/blob/master/contributors/guide/issue-triage.md
+> * 필요한 시점에 작성합니다. 
+
+## 
+
 
 ---
 
