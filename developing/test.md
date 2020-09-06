@@ -8,6 +8,8 @@ HANU의 Project는 Master Branch의 안정성 유지를 위해 Unit Test, Integr
 
 Unit Test는 특정 모듈이 의도된 대로 정상적인 동작을 하는지 테스트 절차입니다. HANU Project의 모든 Package나 주요 파일은 Unit Test를 작성하고 수행해야 합니다. 
 
+Unit Test 소스 코드는 해당 Package 내 소스 코드와 함께 위치합니다. 
+
 새로운 Package나 주요 기능을 추가한 경우 반드시 Unit Test에도 추가해야 합니다. 
 
 > `need-to-improve` 다음 사항에 대한 확인 및 추가 작성이 필요합니다. 

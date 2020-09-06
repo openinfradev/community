@@ -34,9 +34,9 @@ HANU Community는 GitHub Workflow에 따라 기여를 제출하고 검토 및 Me
 
 HANU Community의 신뢰성과 안정성을 위해 모든 기여자는 기여를 제출하기 전에 Test를 수행해야 합니다. HANU Community는 다음과 같은 형태의 Test를 수행하고 있습니다. 
 
-* Unit : 특정 기능이 정상적으로 동작하는지 확인합니다.
-* Integration : Package들간의 동작이 정상적인지 확인합니다. 
-* End-to-end ("e2e") : 전체 시스템이 정상적으로 동작하는지 확인합니다. 
+* Unit Test
+* Integration Test
+* End-to-end ("e2e") Test
   
 Test와 관련한 자세한 사항은 다음 페이지를 참고하세요. : [Testing Guide](../developing/test.md) 
 
@@ -68,7 +68,9 @@ Reviewer에게 좋은 Review 결과를 얻기 위해서는 다음 사항을 유�
 
 ## Documentation
 
-
+> `need-to-improve` >
+> * User Guide를 위한 웹사이트를 구축한다면, 문서화에 기여하는 방법을 여기에 추가해야함
+> * 필요한 시점에 작성합니다. 
 
 ---
 
