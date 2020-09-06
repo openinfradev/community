@@ -2,6 +2,15 @@
 
 HANU Community의 Governance에 대해 소개합니다. 
 
+- [HANU Community Governance](#hanu-community-governance)
+  - [Our Mission](#our-mission)
+  - [Principles](#principles)
+  - [Code of Conduct](#code-of-conduct)
+  - [Organization](#organization)
+  - [Membership](#membership)
+  - [Repository](#repository)
+
+
 ## Our Mission 
 - HANU Community는 [OpenStack](https://www.openstack.org/)과 [Kubernetes](https://kubernetes.io/)를 쉽게 활용할 수 있는 환경을 구축하여 국내 Community를 확장하고 다시 Upstream에 기여하여 오픈소스 생태계에 기여합니다. 
 - 한국의 기업과 오픈소스 개발자들이 협업하여 OpenStack 및 Kubernetes 지원체계를 구축하여 국내 오픈소스 생태계를 확장하는데 기여합니다. 

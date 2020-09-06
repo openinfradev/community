@@ -1,4 +1,9 @@
-# Testing guide
+# Testing Guide
+
+- [Testing Guide](#testing-guide)
+  - [Unit Test](#unit-test)
+  - [Integration tests](#integration-tests)
+  - [End-to-End tests](#end-to-end-tests)
 
 HANU Community의 주요 Project는 다음과 같은 Test를 통해 개발/배포합니다. 기여를 준비하는 오픈소스 개발자 분들은 자신의 개발 결과가 HANU의 Project에 이상없이 반영할 수 있을지에 대해 Unit Test와 Integration Test를 통해 확인할 수 있습니다. 
 

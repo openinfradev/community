@@ -6,6 +6,18 @@ HANU는 모든 소스 코드와 문서를 완전히 공개하고 커뮤니티 �
 
 여기서는 HANU Community에 기여하기 위한 방법을 자세히 설명합니다. 
 
+- [How to Contribute](#how-to-contribute)
+  - [Prerequisites](#prerequisites)
+    - [Sign the CLA](#sign-the-cla)
+    - [Code of Conduct](#code-of-conduct)
+  - [개발 환경 구축](#개발-환경-구축)
+  - [GitHub Workflow](#github-workflow)
+  - [Testing](#testing)
+  - [Pull Request 프로세스](#pull-request-프로세스)
+  - [Code Review](#code-review)
+  - [Documentation](#documentation)
+  
+
 ## Prerequisites
 
 HANU Community에 기여하기 전에 몇가지 확인해야 할 사항들이 있습니다. 

@@ -6,6 +6,19 @@ HANU Community는 GitHub Workflow에 따라 기여를 제출하고 검토 및 Me
 
 여기서는 HANU Community의 대표적인 Project인 tacoplay를 예시로 GitHub Workflow를 설명합니다. 
 
+- [GitHub Workflow](#github-workflow)
+  - [GitHub Workflow example](#github-workflow-example)
+    - [Step 1. Fork](#step-1-fork)
+    - [Step 2. Clone](#step-2-clone)
+    - [Step 3. Fetch / Rebase](#step-3-fetch--rebase)
+    - [Step 4. Create a branch](#step-4-create-a-branch)
+    - [Step 5. Commit](#step-5-commit)
+    - [Step 6. Push](#step-6-push)
+    - [Step 7. Create a Pull Request](#step-7-create-a-pull-request)
+  - [Code Review](#code-review)
+  - [Merge](#merge)
+  - [Revert Commit](#revert-commit)
+
 ## GitHub Workflow example
 
 ### Step 1. Fork 
