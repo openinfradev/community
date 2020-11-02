@@ -1,3 +1,0 @@
-# Organization
-
-Ex) Governance diagram
