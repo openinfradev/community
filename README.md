@@ -7,7 +7,7 @@ HANU Community에 오신 것을 환영합니다!
 > `need-to-improve`  (HANU 소개 글 추가 필요)
 > * HA.NU는 HA나가 되어 NU린다는 뜻의 오픈소스 프로젝트 입니다.
 > * HA.NU는 Kubernetes를 기반으로 모든것의 관리를 자동화 하는 것을 목표로 합니다.
-> * HA.NU를 통해 단일 OAM Pattern을 공유하고, 이를 통해 운영 Know-How 공유를 통해 저녁이 있는 삶, 한우를 먹는 회식을 지향합니다.
+> * HA.NU를 통해 단일 OAM Pattern을 공유하고, 운영 Know-How 공유를 통해 저녁이 있는 삶, 한우가 있는 회식을 지향합니다.
 
 이 공간은 HANU Community내의 Project 들의 오픈소스 개발 방식에 공통적으로 적용되는 내용들을 제공합니다. 
 
