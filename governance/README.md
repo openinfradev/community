@@ -35,8 +35,8 @@ HANU Community의 모든 구성원은 [HANU Code of Conduct](../code-of-conduct.
 HANU Community의 효과적인 운영을 위해 아래와 같은 Group을 운영합니다. 
 
 * Committees
-* Special Interest Group
-* Working Groups=
+* SIG (Special Interest Group)
+* Working Groups
 * User Groups
 
 Group에 대한 자세한 사항은 다음 페이지를 참고하세요. : [Group](./group.md)
