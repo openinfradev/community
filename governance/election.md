@@ -4,6 +4,16 @@
 
 운영위원회 멤버는 선거를 통해 선출합니다. 이를 위한 선거 방식은 다음과 같습니다. 
 
+- [선거](#선거)
+  - [투표 자격](#투표-자격)
+  - [입후보 자격](#입후보-자격)
+  - [선거 과정](#선거-과정)
+  - [최대 참여 제한](#최대-참여-제한)
+  - [선거 주기](#선거-주기)
+  - [선거 일정 및 운영](#선거-일정-및-운영)
+  - [선거 관리관 선발](#선거-관리관-선발)
+  - [공석](#공석)
+
 ## 투표 자격
 - 작년 한해 동안 프로젝트에 50개 이상 기여 (이슈 생성, PR 생성, Comment 등 Github 활동 , 참고 : [devstats developer activity counts dashboard](https://k8s.devstats.cncf.io/d/13/developer-activity-counts-by-repository-group?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=All).)
 - 위의 기준을 충족하지는 못하지만, 예외 투표 신청 (예: [voting exception form](https://www.surveymonkey.com/r/k8s-sc-election-2019))을 제출하고, 과반수 찬성 시 투표 참여 가능

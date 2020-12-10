@@ -7,6 +7,19 @@
 >  (2) SIG : https://github.com/kubernetes/community/blob/master/committee-steering/governance/sig-governance.md  
 >  (3) Committe Steering : https://github.com/kubernetes/community/tree/master/committee-steering  
 
+
+- [Group](#group)
+  - [운영 위원회 (Steering Committee)](#운영-위원회-steering-committee)
+    - [주요 역할](#주요-역할)
+  - [SIG (Special Interest Group)](#sig-special-interest-group)
+    - [위원장](#위원장)
+    - [헌장 (Charter)](#헌장-charter)
+    - [소통](#소통)
+    - [Guideline](#guideline)
+  - [Working Groups](#working-groups)
+  - [User Groups](#user-groups)
+
+
 ## 운영 위원회 (Steering Committee)
 ### 주요 역할
 - Project-level governance
