@@ -6,7 +6,7 @@
   - [Reviewer](#reviewer)
     - [요구 사항](#요구-사항)
     - [책임과 권한](#책임과-권한-1)
-  - [Appoval](#appoval)
+  - [Approver](#approver)
     - [요구 사항](#요구-사항-1)
     - [책임과 권한](#책임과-권한-2)
   - [Project Owner](#project-owner)
@@ -66,7 +66,7 @@ Reviewer는 프로젝트 내의 코드 품질과 정확성을 review할 수 있�
 
 Reviewer 목록은 OWNER 파일 내 reviewer entry에 기록됩니다. 
 
-참고 : 기여한 코드가 수락되려면 지정된 Reviewer와 더불어 한 명 이상의 Approval의 승인이 필요합니다. 
+참고 : 기여한 코드가 수락되려면 지정된 Reviewer와 더불어 한 명 이상의 Approver의 승인이 필요합니다. 
 
 ### 요구 사항
 Reviewer가 되기 위한 요구 사항은 다음과 같습니다. 
@@ -86,7 +86,7 @@ Reviewer가 되기 위한 요구 사항은 다음과 같습니다.
 - 프로젝트와 관련된 PR의 review가 할당됩니다.
 - 프로젝트와 관련된 bug가 할당됩니다.
 
-## Appoval
+## Approver
 
 Approver는 코드 기여를 review하고 approve할 수 있습니다. Review는 코드 품질과 정확성에 초점을 맞추고 있지만, Approal은 다음과 같은 부분까지도 고려하여 전체적인 관점의 검토에 중점을 둡니다. 
 
