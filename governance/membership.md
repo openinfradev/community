@@ -1,10 +1,18 @@
 # Membership
+- [Membership](#membership)
+  - [Member](#member)
+    - [요구사항](#요구사항)
+    - [책임과 권한](#책임과-권한)
+  - [Reviewer](#reviewer)
+    - [요구 사항](#요구-사항)
+    - [책임과 권한](#책임과-권한-1)
+  - [Appoval](#appoval)
+    - [요구 사항](#요구-사항-1)
+    - [책임과 권한](#책임과-권한-2)
+  - [Project Owner](#project-owner)
+    - [요구 사항](#요구-사항-2)
+    - [책임과 권한](#책임과-권한-3)
 
-> `need-to-improve` 
-> * 멤버쉽 어떻게 구성할지에 대한 결정 필요 
-> * 참고 : https://github.com/kubernetes/community/blob/master/community-membership.md
-
-**Note:** This document is in progress
 
 HANU의 프로젝트에는 다음과 같은 역할의 참여자가 있습니다. 
 
