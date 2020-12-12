@@ -6,71 +6,56 @@
 
 **Note:** This document is in progress
 
-HANU에는 공식적으로 지원되는 다음과 같은 유형의 그룹이 있습니다.
-
-* **Maintainer**는 민감한 주제를 다루는 전세를 가진 사람들로 지명됩니다.
-  이 그룹은 사명을 달성하면서 가능한 한 개방적이어야하지만 논의 된 주제의 성격 때문에 개인 커뮤니케이션이 허용됩니다.
-  Sub-Project의 운영 권한을 가지며 코드의 관리를 책임지게 됩니다.
-
-* **Contributor**는 프로젝트의 일부에 대한 관리 권한을 가집니다. Sub GitHub를 생성 관리 할 수 있으며 Github의 코드 전반적인 내용을 관리합니다.
-  코드 품질, 코드 커밋, 요건사항을 정의 및 적용을 수행합니다.
-
-* **Committer**은 코드를 수정 적용하고 git branch의 접근권한을 가집니다.
-  git commit을 통해서 git-barnch의 접근을 허용하며 수정 코드에 대하 Ownership을 가집니다.
-
-* **User Group**은 관련 정보의 교류 및 검색을 용이하게하기위한 그룹입니다.
-  많은 HANU 사용자 그룹과 장기적으로 관련이있는 Summit, 회의에 참여할 수 있습니다.
-  HANU 코드베이스의 일부에 대한 소유권이 없습니다.
-
-
-이 문서는 Kubernetes의 기고자 역할에 대한 다양한 책임을 간략하게 설명합니다. Kubernetes 프로젝트는 SIG에서 하위 프로젝트로 세분됩니다. 대부분의 역할에 대한 책임은 이러한 하위 프로젝트에 의해 결정됩니다.
+HANU의 프로젝트에는 다음과 같은 역할의 참여자가 있습니다. 
 
 | Role | Responsibilities | Requirements | Defined by |
 | -----| ---------------- | ------------ | -------|
-| member | active contributor in the community | sponsored by 2 reviewers.  multiple contributions to the project. |
-| reviewer | review contributions from other members | history of review and authorship in a subproject |
-| approver | approve accepting contributions | highly experienced and active reviewer + contributor to a subproject |
-| subproject owner | set direction and priorities for a subproject | demonstrated responsibility and excellent technical judgement for the subproject |
+| Member | 커뮤니티에 적극적인 기여| 2명의 Reviewer로부터 후원을 받은 적극적인 기여자 | GitHub org member |
+| Reviewer | 다른 멤버의 기여 Review | 프로젝트 내 Review와 저작 이력이 풍부한 Member | [OWNERS](https://github.com/kubernetes/community/blob/master/contributors/guide/owners.md) file reviewer entry |
+| Approver | 기여 수락에 대한 승인 | 경험이 풍부하고 적극적인 Reviewer | [OWNERS](https://github.com/kubernetes/community/blob/master/contributors/guide/owners.md) file approver entry |
+| Project Owner | Project의 방향 및 우선순위 결정 | 프로젝트에 대한 책임과 탁월한 기술적 판단력이 입증된 자 | [sigs.yaml](https://github.com/kubernetes/community/blob/master/sigs.yaml) subproject [OWNERS](https://github.com/kubernetes/community/blob/master/contributors/guide/owners.md) file owners entry |
 
-
-## New contributors
-
-## Established community members
+각 역할의 요구사항과 책임 및 권한은 다음과 같습니다. 
 
 ## Member
 
-### Requirements
+Member는 커뮤니티에 지속적으로 기여한 기여자입니다. Issue와 PR을 자신에게 assign할 수 있고, SIG에 참여할 수 있습니다. 
 
-### Kubernetes Ecosystem
+정의 : Member는 GitHub organization의 Member로 등록됩니다. 
 
-### Responsibilities and privileges
+### 요구사항
+- Github 계정에서 [two-factor authentication](https://help.github.com/articles/about-two-factor-authentication) 활성화합니다.
+- 프로젝트에 다음과 같은 형태의  기여를 합니다.
+  - GitHub에서 PR 작성 또는 Review
+  - GitHub에서 Issue 생성 또는 Comment 작성
+  - SIG, Project 등 커뮤니티 내 토론 (미팅, Slack, 메일링 리스트 등)에 기여
+메일링리스트 가입합니다.
+- [contributor guide](https://github.com/kubernetes/community/blob/master/contributors/guide/README.md)숙독합니다.
+- 하나 이상의 프로젝트에 적극적으로 기여합니다.
+- 2명의 Reviewer로부터 후원을 받습니다.
+  - 후원자는 예비 멤버와 긴밀하게 작업한 이력이 있어야 함. (예: code/design/proposal review, issue 조율 등)
+  - 후원자는 여러 회사 출신이어야 함
+- org repository에 "REQUEST: New membership for <your-GH-handle>"이라는 제목의 Issue를 생성합니다. (예: https://github.com/kubernetes/org/issues/new?template=membership.md&title=REQUEST%3A%20New%20membership%20for%20%3Cyour-GH-handle%3E)
+  - 이때 후원자를 멘션표시(@mentioned) 합니다.
+  - 체크리스트의 모든 항목을 완료합니다. ([preview the current version of the template](https://git.k8s.io/org/.github/ISSUE_TEMPLATE/membership.md))
+- 후원자(Reviewer)에게 +1을 체크하도록 요청합니다. 
+- 후원자 응답이 완료되면 GitHub 관리팀 (예: [Kubernetes GitHub Admin team](https://github.com/kubernetes/community/blob/master/github-management/README.md#github-administration-team))이 검토하고, 누락된 정보가 있으면 보완을 요청합니다. 
+
+### 책임과 특권
+
+- 할당된 Issue와 PR에 대응합니다. 
+- 그들이 기여한 코드의 active owner입니다.
+  - 코드는 잘 테스트되어야 합니다.
+  - 테스트는 항상 통과되어야 합니다.
+  - 버그나 이슈를 해결합니다. 
+- 멤버는 오픈된 PR에 대해  /lgtm를 할 수 있습니다. 
+- Issue나 PR에 대해 할당될 수 있으며, 사람들은 멤버에게 /cd @username 하여 review 요청할 수 있습니다. 
+
 
 ## Reviewer
 
-### Requirements
 
-### Responsibilities and privileges
+## Appoval
 
-## Approver
 
-### Requirements
-
-### Responsibilities and privileges
-
-## Subproject Owner
-
-### Requirements
-
-### Responsibilities and privileges
-
-## Inactive members
-
-### How inactivity is measured
-
-## 오픈소스 프로젝트 관리 구조
-(오픈소스 프로젝트는 관리방식 / 본 커뮤니티는 다수의 Contributors이 모여 코드를 작성하고 안정적인 제품을 만들어 내기 위하여 명확한 거버넌스 체계를 구축하고 있습니다. 등의 설명 작성) 
-
-* 거버넌스 구조
-* 문서 구조
-
-## 커뮤니티 가입하기 
+## Project Owner
