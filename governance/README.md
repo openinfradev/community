@@ -44,12 +44,12 @@ Group에 대한 자세한 사항은 다음 페이지를 참고하세요. : [Grou
 
 ## Membership
 
-HANU Community는 아래와 같은 Member에 의해 자율적으로 운영되고 있습니다. 
+HANU Community의 Membership은 아래와 같은 역할로 구성됩니다. 
 
-* Maintainer
-* Committer
-* Contributor
-* User
+* Member
+* Reviewer
+* Approver
+* Project Owner
 
 Membership에 대한 자세한 내용은 다음 페이지를 참고하세요. : [Membership](./membership.md)
 
