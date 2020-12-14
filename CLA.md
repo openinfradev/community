@@ -1,7 +1,7 @@
-# Contributor License Agreement
+# Contributor License Agreement (준비 중) 
 
-> `need-to-improve`
-> * CLA 사용 여부에 대한 확정 후 CLA 서명 방법에 대한 내용 작성 예정입니다. 
-> * cla-assistant 활용 : https://github.com/cla-assistant/cla-assistant
-> * 참고 : https://github.com/kubernetes/community/blob/master/CLA.md
+HANU에 속한 오픈소스SW 프로젝트들의 Code Repository에 기여해주셔서 감사합니다. 
 
+HANU 프로젝트에서는 여러분들의 기여를 커뮤니티내 모든 분들이 자유럽게 사용할 수 있도록 CLA (Contributor License Agreement)를 준비하고 있습니다. 
+
+준비가 되는데로 이 페이지를 통해서 자세한 내용을 알려드리도록 하겠습니다. 
