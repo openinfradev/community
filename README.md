@@ -1,4 +1,4 @@
-# HANU Community
+# HANU Community Guide
 
 HANU Community에 오신 것을 환영합니다!
 
