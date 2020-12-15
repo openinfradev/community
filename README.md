@@ -1,8 +1,10 @@
 # HANU Community Guide (작성 중) 
 
-HANU Community에 오신 것을 환영합니다!
+HANU Community에 오신 것을 환영합니다! 
 
-![hanu-logo](./assets/logo/hanu-logo-temp.png)
+**현재 Governance와 커뮤니티 운영을 위해 필요한 내용들을 정리하여 문서화 진행하고 있습니다.**
+
+
 
 > `need-to-improve`  (HANU 소개 글 추가 필요)
 > * HANU는 ...
