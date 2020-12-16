@@ -1,6 +1,6 @@
-# HANU Community Governance
+# HANU Governance
 
-HANU Community의 Governance에 대해 소개합니다. 
+HANU Governance에 대해 소개합니다. 
 
 - [HANU Community Governance](#hanu-community-governance)
   - [Our Mission](#our-mission)
