@@ -2,11 +2,6 @@
 
 HANU Community에 오신 것을 환영합니다! 
 
-**현재 Governance와 커뮤니티 운영을 위해 필요한 내용들을 정리하여 문서화 진행하고 있습니다.**
-
-## HANU (HAm Gye NUrim; 함께 누림) 
-HANU 프로젝트는 Open Infrastructure와 관련된 오픈소스 기술들을 모아 제공하고, 이를 기반으로 커뮤니티 구성 및 확산시키기 위한 공간입니다. 
-
 - [HANU Community Guide (작성 중)](#hanu-community-guide-작성-중)
   - [HANU (HAm Gye NUrim; 함께 누림)](#hanu-ham-gye-nurim-함께-누림)
   - [프로젝트 소개](#프로젝트-소개)
@@ -21,6 +16,12 @@ HANU 프로젝트는 Open Infrastructure와 관련된 오픈소스 기술들을 
   - [Communication](#communication)
   - [License](#license)
   - [Support](#support)
+
+
+**현재 Governance와 커뮤니티 운영을 위해 필요한 내용들을 정리하여 문서화 진행하고 있습니다.**
+
+## HANU (HAm Gye NUrim; 함께 누림) 
+HANU 프로젝트는 Open Infrastructure 및 Cloud Native Computing과 관련된 다양한 기술들을 오픈소스SW로 개발하고, 이와 관련된 커뮤니티를 구성하고 활성화 하기 위한 공간입니다.
 
 ## 프로젝트 소개
 
@@ -41,7 +42,9 @@ Ansible 기반의 Baremental, Jubernetes, Add-on tools에 대한 설치 자동�
 Kustomize 기반의 YAML Document 구조화 및 관리 기능과 Helm과 Argo를 기반 기술로 한 Declarative Application 배포 및 라이프사이클 관리 소프트웨어입니다.
 
 ### TACOCTL (Incubation)
-TACOPLAY를 대체하는 Kubernetes Cluster-API 기반의 Cloud Native Infrastructure Lifecycle Management Controller입니다. 
+
+TACOPLAY를 대체하는 Kubernetes Cluster-API 기반의 Cloud Native Infrastructure Lifecycle Management Controller입니다.   
+참고로, '21년에는 HANUCTL로 명칭을 바꿀 예정입니다. 
 
 
 ## Governance
@@ -50,7 +53,7 @@ HANU Community는 오픈소스의 협업과 공유 정신에 따라 누구든지
 
 ## How to Use
 
-HANU Community 내 Project는 각각의 READE에서 사용/설치/운영 방법을 자세히 소개합니다. 
+HANU Community 내 Project는 각각의 README에서 사용/설치/운영 방법을 자세히 소개합니다. 
 
 > `need-to-improve` 
 > * DECAPOD : 
@@ -84,5 +87,5 @@ HANU Community는 모든 Project는 다음 라이선스에 따라 배포합니�
 
 ## Support
 
-HANU Community 운영과 관련한 문의/요청이 있을 경우 [Issue](https://github.com/openinfradev/community-draft/issues/new)를 생성해서 의견 남겨 주세요.  
+HANU Community 운영과 관련한 문의/요청이 있을 경우 [Issue](https://github.com/openinfradev/community/issues/new)를 생성해서 의견 남겨 주세요.  
 

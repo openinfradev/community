@@ -18,12 +18,13 @@ HANU의 프로젝트에는 다음과 같은 역할의 참여자가 있습니다.
 
 | Role | Responsibilities | Requirements | Defined by |
 | -----| ---------------- | ------------ | -------|
-| Member | 커뮤니티에 적극적인 기여| 2명의 Reviewer로부터 후원을 받은 적극적인 기여자 | GitHub org member |
-| Reviewer | 다른 멤버의 기여 Review | 프로젝트 내 Review와 저작 이력이 풍부한 Member | [OWNERS](https://github.com/kubernetes/community/blob/master/contributors/guide/owners.md) file reviewer entry |
-| Approver | 기여 수락에 대한 승인 | 경험이 풍부하고 적극적인 Reviewer | [OWNERS](https://github.com/kubernetes/community/blob/master/contributors/guide/owners.md) file approver entry |
-| Project Owner | Project의 방향 및 우선순위 결정 | 프로젝트에 대한 책임과 탁월한 기술적 판단력이 입증된 자 | [sigs.yaml](https://github.com/kubernetes/community/blob/master/sigs.yaml) subproject [OWNERS](https://github.com/kubernetes/community/blob/master/contributors/guide/owners.md) file owners entry |
+| Member | 프로젝트에 참여하는 전원 | GitHub org member |
+| Contributor | 코드, 문서등 github repository에 직접적인 기여를 한 개발자| 프로젝트 내 Review와 저작 이력이 있는 Member | [OWNERS](https://github.com/kubernetes/community/blob/master/contributors/guide/owners.md) file reviewer entry |
+| Committer | 코드에 대한 리뷰와 Merge권한을 가진 개발자 | 경험이 풍부하고 적극적인 Contributor | [OWNERS](https://github.com/kubernetes/community/blob/master/contributors/guide/owners.md) file approver entry |
 
-각 역할의 요구사항과 책임 및 권한은 다음과 같습니다. 
+각 역할의 요구사항과 책임 및 권한은 다음과 같습니다.  
+
+(아래의 내용은 보완이 필요합니다. - haksung)
 
 ## Member
 

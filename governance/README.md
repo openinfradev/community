@@ -12,8 +12,8 @@ HANU Governance에 대해 소개합니다.
 
 
 ## Our Mission 
-- HANU는 [OpenStack](https://www.openstack.org/)과 [Kubernetes](https://kubernetes.io/)를 쉽게 활용할 수 있는 환경을 구축하여 국내 Community를 확장하고 다시 Upstream에 기여하여 오픈소스 생태계에 기여합니다. 
-- 한국의 기업과 오픈소스 개발자들이 협업하여 OpenStack 및 Kubernetes 지원체계를 구축하여 국내 오픈소스 생태계를 확장하는데 기여합니다. 
+HANU는 OpenStack를 중심으로 한 [Open Infrastructure](https://openinfra.dev/projects/) 산하 프로젝트들과 Kubernetes를 중심으로 한 [Cloud Native Computing](https://www.cncf.io/) 산하의 프로젝트들을 쉽게 활용할 수 있는 환경을 만들고, 필요한 기술을 오픈소스SW로 개발하여 공유할 수 있는 국내 Community를 만들어 확장합니다. 또한, 글로벌 Upstream 프로젝트에 기여할 수 공동체를 만들어 국내의 오픈소스 생태계 활성화에 기여합니다.
+
 
 ## Principles
 
@@ -36,6 +36,7 @@ HANU의 효과적인 운영을 위해 아래와 같은 Group을 운영합니다.
 
 * 기술 위원회 (Technical Committee)
 * SIG (Special Interest Group)
+* Project
 
 Group에 대한 자세한 사항은 다음 페이지를 참고하세요. : [Group](./group.md)
 
@@ -45,9 +46,9 @@ Group에 대한 자세한 사항은 다음 페이지를 참고하세요. : [Grou
 HANU의 Membership은 아래와 같은 역할로 구성됩니다. 
 
 * Member
-* Reviewer
-* Approver
-* Project Owner
+* Contributor
+* Committer
+
 
 Membership에 대한 자세한 내용은 다음 페이지를 참고하세요. : [Membership](./membership.md)
 
@@ -61,4 +62,4 @@ HANU의 모든 활동은 GitHub에 투명하게 공개합니다.
 이 곳의 모든 Repository는 [HANU Repository Policy](./repository.md)에 따라 생성/관리/삭제됩니다. 
 
 
-HANU의 Governance에 대해 문의나 의견이 있을 경우 [Issue](https://github.com/openinfradev/community-draft/issues/new)를 생성해주세요. 
+HANU의 Governance에 대해 문의나 의견이 있을 경우 [Issue](https://github.com/openinfradev/community/issues/new)를 생성해주세요. 

@@ -140,4 +140,4 @@ Commit을 revert하고자 할때는 다음 안내를 따르세요.
 
 ---
 
-HANU Community에서의 GitHub Workflow 과정에 문의나 의견이 있을 경우 [Issue](https://github.com/openinfradev/community-draft/issues/new)를 생성해주세요. 
+HANU Community에서의 GitHub Workflow 과정에 문의나 의견이 있을 경우 [Issue](https://github.com/openinfradev/community/issues/new)를 생성해주세요. 
