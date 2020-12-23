@@ -3,7 +3,7 @@
 HANU Community에 오신 것을 환영합니다! 
 
 - [HANU Community Guide (작성 중)](#hanu-community-guide-작성-중)
-  - [HANU (HAm Gye NUrim; 함께 누림)](#hanu-ham-gye-nurim-함께-누림)
+  - [HANU (HAm kke NU rim; 함께 누림)](#hanu-ham-kke-nu-rim-함께-누림)
   - [프로젝트 소개](#프로젝트-소개)
     - [HANU-CI](#hanu-ci)
     - [TACOPLAY](#tacoplay)
@@ -20,14 +20,16 @@ HANU Community에 오신 것을 환영합니다!
 
 **현재 Governance와 커뮤니티 운영을 위해 필요한 내용들을 정리하여 문서화 진행하고 있습니다.**
 
-## HANU (HAm Gye NUrim; 함께 누림) 
+## HANU (HAm kke NU rim; 함께 누림) 
 HANU 프로젝트는 Open Infrastructure 및 Cloud Native Computing과 관련된 다양한 기술들을 오픈소스SW로 개발하고, 이와 관련된 커뮤니티를 구성하고 활성화 하기 위한 공간입니다.
 
 ## 프로젝트 소개
 
-HANU에는 여러 오픈소스 프로젝트가 존재합니다. HANU의 프로젝트들은 Cloud Native Infrastructure와 관련되어 서로 연계가 가능합니다. 
+HANU에는 여러 개의 오픈소스SW 프로젝트들이 있습니다. HANU의 프로젝트들은 각각 고유의 기능/구조적 특징을 가지면서, 필요 시 서로 연계할 수 있도록 되어 있습니다.
 
-HANU에는 Incubation Project가 존재하며, 활성화된 Incubation Project는 Project (Stable)로 전환될 수 있습니다. Incubation Project는 누구든지 생성을 제안할 수 있으머, Technical Committee에서 결정합니다. 
+HANU의 프로젝트는 두 개로 나뉘어 집니다. 첫번째로 Incubation Project로 시작이 되며, 그 이후 충분한 기능적 완성도와 안성정을 갖추게 되면 Stable Project로 전환 될 수 있습니다.
+
+Incubation Project는 누구든지 생성을 제안할 수 있으며, Technical Committee에서 결정합니다.
 
 ### HANU-CI
 
@@ -35,7 +37,7 @@ HANU 산하 프로젝트들의 개발, 테스트, 릴리즈를 위한 CI 시스�
 
 ### TACOPLAY
 
-Ansible 기반의 Baremental, Jubernetes, Add-on tools에 대한 설치 자동화 소프트웨어입니다.
+Ansible기반의 Baremetal, Docker, Kubernetes 설치 자동화 기능을 제공하며, 설치된 Kubernetes 상에서 Airship Armada 혹은 decapod를 활용하여 컨테이너화된 OpenStack 이나 LMA (Logging, Monitoring, Alerting), 혹은 추가 Add-on tools 들을 설치할 수 있는 ansible playbook들을 제공합니다.
 
 ### DECAPOD (DEClarative APplication Orchestration & Delivery)
 
