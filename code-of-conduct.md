@@ -1,4 +1,4 @@
-CNCF 커뮤니티 행동 강령 v1.0
+HANU 커뮤니티 행동 강령 v1.0
 ----------------------------
 
 ### 참여자 행동 강령
@@ -22,8 +22,7 @@ CNCF 커뮤니티 행동 강령 v1.0
 
 본 행동강령은 참여자 Contributor Covenant (http://contributor-covenant.org) 의 버전 1.2.0을 적용하였으며, 해당 내용은 여기 http://contributor-covenant.org/version/1/2/0/ 에서 확인할 수 있습니다.
 
-## CNCF 커뮤니티 행동 강령
 
+### Reporting 가이드라인
 
-CNCF 이벤트는 리눅스 재단의 행동 강령 을 따르며, 해당 내용은 이벤트 페이지에서 확인할 수 있습니다. 본 강령은 위 정책과 호환할 수 있도록 설계되었으며, 또한 사건에 따라 더 많은 세부 내용을 포함합니다.
-
+만약 커뮤니티 행동 강령을 위반하는 사례가 있다고 생각하신다면, Community의 이슈 (https://github.com/openinfradev/community/issues/new)로 등록하여 알려주시기 바랍니다. 직접적인 연락이 필요하시다면 다음 메일주소 (안재석, bluejay.ahn@gmail.com) 로 연락 주시기 바랍니다. 
