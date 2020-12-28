@@ -48,4 +48,4 @@ HANU Community내 Project의 Release 정책과 절차에 대한 자세한 내용
 
 ---
 
-HANU Community에서의 개발 과정에 문의나 의견이 있을 경우 [Issue](https://github.com/openinfradev/community-draft/issues/new)를 생성해주세요. 
+HANU Community에서의 개발 과정에 문의나 의견이 있을 경우 [Issue](https://github.com/openinfradev/community/issues/new)를 생성해주세요. 

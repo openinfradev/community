@@ -38,7 +38,7 @@ git clone https://github.com/$user/tacoplay.git
 cd $working_dir/tacoplay
 git remote add upstream https://github.com/openinfradev/tacoplay.git
 
-# Never push to upstream master
+# Never push to upstream main
 git remote set-url --push upstream no_push
 
 # Confirm that your remotes make sense:
@@ -47,15 +47,15 @@ git remote -v
 
 ### Step 3. Fetch / Rebase
 
-(Clone후 시간이 지난 시점이라면) master branch를 최신 상태로 유지합니다. 
+(Clone후 시간이 지난 시점이라면) main branch를 최신 상태로 유지합니다. 
 
-fetch를 수행하고, upstream에 변경 사항이 있을 경우 경우 rebase하여 master branch를 최신 상태로 유지합니다.
+fetch를 수행하고, upstream에 변경 사항이 있을 경우 경우 rebase하여 main branch를 최신 상태로 유지합니다.
 
 ```
 cd $working_dir/tacoplay
 git fetch upstream
-git checkout master
-git rebase upstream/master
+git checkout main
+git rebase upstream/main
 ```
 
 fetch/rebase 대신 pull을 사용하지 마세요. git pull은 merge를 수행하면서 commit history를 지저분해지게 할 수 있기 때문입니다.  
@@ -117,7 +117,7 @@ Commit을 revert하고자 할때는 다음 안내를 따르세요.
   
   # sync the branch with upstream
   git fetch upstream
-  git rebase upstream/master
+  git rebase upstream/main
   ```
 
 * revert하고자 하는 commit이 
@@ -140,4 +140,4 @@ Commit을 revert하고자 할때는 다음 안내를 따르세요.
 
 ---
 
-HANU Community에서의 GitHub Workflow 과정에 문의나 의견이 있을 경우 [Issue](https://github.com/openinfradev/community-draft/issues/new)를 생성해주세요. 
+HANU Community에서의 GitHub Workflow 과정에 문의나 의견이 있을 경우 [Issue](https://github.com/openinfradev/community/issues/new)를 생성해주세요. 

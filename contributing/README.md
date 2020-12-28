@@ -105,4 +105,4 @@ Reviewer에게 좋은 Review 결과를 얻기 위해서는 다음 사항을 유�
 
 ---
 
-HANU Community에서의 기여 과정에 문의나 의견이 있을 경우 [Issue](https://github.com/openinfradev/community-draft/issues/new)를 생성해주세요. 
+HANU Community에서의 기여 과정에 문의나 의견이 있을 경우 [Issue](https://github.com/openinfradev/community/issues/new)를 생성해주세요. 
