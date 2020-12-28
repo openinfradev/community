@@ -89,9 +89,5 @@ HANU Community는 모든 Project는 다음 라이선스에 따라 배포합니�
 
 ## Support
 
-<<<<<<< HEAD
-HANU Community 운영과 관련한 문의/요청이 있을 경우 [Issue](https://github.com/openinfradev/community-draft/issues/new)를 생성해서 의견 남겨 주세요.  
-=======
 HANU Community 운영과 관련한 문의/요청이 있을 경우 [Issue](https://github.com/openinfradev/community/issues/new)를 생성해서 의견 남겨 주세요.  
 
->>>>>>> origin/main
