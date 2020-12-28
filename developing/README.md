@@ -15,7 +15,7 @@ HANU Community에는 여러개의 Project가 있으며 모두 공통적으로 �
 
 ## How to Build
 
-HANU Community의 주오 Project는 Docker 기반 빌드 환경을 제공합니다. 
+HANU Community의 주요 Project는 Docker 기반 빌드 환경을 제공합니다. 
 
 다음 페이지에 Project Build를 위한 공통적으로 설치가 요구되는 사항을 정리하였으니 참고하세요. [How to Build](./build.md)
 
