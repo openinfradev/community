@@ -58,7 +58,7 @@ git checkout master
 git rebase upstream/master
 ```
 
-fetch/rebase 대신 pull을 사용하지 마세요. git pull은 merge를 수행하면서 comit history를 지저분해지게 할 수 있기 때문입니다.  
+fetch/rebase 대신 pull을 사용하지 마세요. git pull은 merge를 수행하면서 commit history를 지저분해지게 할 수 있기 때문입니다.  
 
 
 ### Step 4. Create a branch

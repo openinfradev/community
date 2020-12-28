@@ -18,8 +18,6 @@ HANU는 모든 소스 코드와 문서를 완전히 공개하고 커뮤니티 �
   - [Security](#security)
   - [Documentation](#documentation)
   - [Issue 관리 / 분류](#issue-관리--분류)
-  - [](#)
-  
 
 ## Prerequisites
 
