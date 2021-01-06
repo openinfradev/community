@@ -8,7 +8,7 @@ HANU Community에 오신 것을 환영합니다!
     - [HANU-CI](#hanu-ci)
     - [TACOPLAY](#tacoplay)
     - [DECAPOD (DEClarative APplication Orchestration & Delivery)](#decapod-declarative-application-orchestration--delivery)
-    - [TACOCTL (Incubation)](#tacoctl-incubation)
+    - [HANUCTL (Incubation)](#hanuctl-incubation)
   - [Governance](#governance)
   - [How to Use](#how-to-use)
   - [How to Develop](#how-to-develop)
@@ -43,10 +43,9 @@ Ansible기반의 Baremetal, Docker, Kubernetes 설치 자동화 기능을 제공
 
 Kustomize 기반의 YAML Document 구조화 및 관리 기능과 Helm과 Argo를 기반 기술로 한 Declarative Application 배포 및 라이프사이클 관리 소프트웨어입니다.
 
-### TACOCTL (Incubation)
+### HANUCTL (Incubation)
 
 TACOPLAY를 대체하는 Kubernetes Cluster-API 기반의 Cloud Native Infrastructure Lifecycle Management Controller입니다.   
-참고로, '21년에는 HANUCTL로 명칭을 바꿀 예정입니다. 
 
 
 ## Governance
