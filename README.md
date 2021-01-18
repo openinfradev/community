@@ -31,10 +31,6 @@ HANU의 프로젝트는 두 개로 나뉘어 집니다. 첫번째로 Incubation 
 
 Incubation Project는 누구든지 생성을 제안할 수 있으며, Technical Committee에서 결정합니다.
 
-### HANU-CI
-
-HANU 산하 프로젝트들의 개발, 테스트, 릴리즈를 위한 CI 시스템을 제공합니다.  
-
 ### TACOPLAY
 
 Ansible기반의 Baremetal, Docker, Kubernetes 설치 자동화 기능을 제공하며, 설치된 Kubernetes 상에서 Airship Armada 혹은 decapod를 활용하여 컨테이너화된 OpenStack 이나 LMA (Logging, Monitoring, Alerting), 혹은 추가 Add-on tools 들을 설치할 수 있는 ansible playbook들을 제공합니다.
