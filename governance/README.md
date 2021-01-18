@@ -48,7 +48,6 @@ HANU의 Membership은 아래와 같은 역할로 구성됩니다.
 * Member
 * Contributor
 * Committer
-* Maintainer
 
 Membership에 대한 자세한 내용은 다음 페이지를 참고하세요. : [Membership](./membership.md)
 
