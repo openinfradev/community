@@ -17,8 +17,6 @@ HANU의 프로젝트에는 다음과 같은 역할의 참여자가 있습니다.
 | [Contributor](#contributor) | 코드, 문서 등 Github repository에 직접적인 기여를 한 자| 프로젝트 내 Review와 저작 이력이 있는 Member | * 등록 방법 추가 필요 (예: [OWNERS](https://github.com/kubernetes/community/blob/master/contributors/guide/owners.md) file reviewer entry) |
 | [Committer](#committer) | 프로젝트에 대한 기술 지휘권을 갖고 코드에 대한 리뷰와 Merge 권한을 가진 자 | 기술적 목표와 방향에 대한 깊이 이해하고 경험이 풍부하며 적극적인 Contributor | * 등록 방법 추가 필요 (예: [OWNERS](https://github.com/kubernetes/community/blob/master/contributors/guide/owners.md) file approver entry) |
 
-<!-- | [Maintainer](#maintainer) | 프로젝트에 대한 기술 지휘권을 가진 자 | 기술적 목표와 방향에 대한 깊은 이해| * 등록 방법 추가 필요 (예: [OWNERS](https://github.com/kubernetes/community/blob/master/contributors/guide/owners.md) file project owner entry) |-->
-
 각 역할에 대한 요구사항, 책임 및 권한은 다음과 같습니다.  
 
 ## Member
@@ -99,35 +97,3 @@ Committer가 되기 위한 Project별 세부 과정은 Project의 헌장에 정�
 - 프로젝트 품질 관리를 책임지고 code reviews를 충실히 수행합니다.
   - 다른 기능과의 종속성, 양방향 호환성, API 및 flag 정의 등과 같은 전체적인 영향에 중점으로 검토합니다. 
 - 코드 기여 수락 요청에 대해 Approve 합니다. 
-
-<!--
-## Maintainer
-
-Maintainer는 프로젝트에 대한 기술 지휘권을 갖습니다. 프로젝트의 건전성에 대한 올바른 판단과 책임을 보여 주어야 합니다. 기술 방향을 설정하고, 설계에 대한 결정을 내리거나 승인해야 합니다. 
-
-Maintainer 목록은 OWNER 파일 내 owner entry에 기록됩니다.
-
-### 요구 사항
-Maintainer가 되기 위한 기본적인 요구 사항은 다음과 같습니다. 
-
-- 프로젝트의 기술적 목표와 방향에 대한 깊은 이해
-- 프로젝트의 기술 영역에 대한 깊은 이해
-- 다음을 모두 수행하여 설계 및 방향에 대한 지속적인 기여
-  - 제안서 작성 및 검토
-  - 토론 (이메일, GitHub issue, 미팅)을 시작, 참여하고 해결
-  - PR을 설계하고 구현하는 데 있어서 미묘하고 복잡한 이슈 식별
-- 구현 혹은 Review를 통해 프로젝트에 직접 기여
-
-Maintainer가 되기 위한 세부 과정은 Project의 헌장에 정의되어야 합니다. 
-
-### 책임과 권한
-- 프로젝트에 대한 기술 설계 결정을 내리고 승인합니다. 
-- 프로젝트의 기술적 방향과 우선순위를 설정합니다. 
-- Milestone과 Release를 정의합니다. 
-- 프로젝트 내 Committer, Contributor, Member의 멘토가 되어 가이드합니다. 
-- 프로젝트의 지속적인 건전성을 보장합니다. 
-- 안정적인 Release를 위한 적절한 테스트 coverage를 지정합니다.
-- 토론 및 의사결정이 건전한 프로세스에 의해 수행되도록 합니다. 
-- 다른 프로젝트의 Maintainer와 협력하여 전체적으로 프로젝트의 전반적인 건전성과 성공을 유지합니다. 
-
--->
