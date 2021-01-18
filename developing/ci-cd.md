@@ -1,10 +1,9 @@
 # CI / CD
 
 ### Overview
-HANU의 CI/CD pipeline 은 Taco 및 관련 인프라, application 등을 빌드, 배포, 테스트하는 일련의 단계들로 구성되어 있습니다.
-SKT에서 개발한 tacoplay라는 ansible playbook을 사용해 taco cluster를 배포하고, 그 위에 logging/monitoring toolchain, openstack cloud platform을 비롯한 여러 application 등을 배포하고 검증하는 flow로 이루어져 있습니다.
+HANU의 CI/CD pipeline 은 Taco 및 관련 인프라, application 등을 빌드, 배포, 테스트하는 일련의 단계들로 구성되어 있으며, SKT에서 기존에 사용하던 Jenkins 기반의 CI 체계를 참고하여 github 환경에 맞게 새롭게 구성하였습니다. 자체개발한 tacoplay라는 ansible playbook을 사용해 taco cluster를 배포하고, 그 위에 logging/monitoring toolchain, openstack cloud platform을 비롯한 여러 application 등을 배포하고 검증하는 flow로 이루어져 있습니다.
 
-Application 배포를 위해서 decapod라는 SKT의 배포 체계를 사용하게 되며, 각 application 별 배포 설정은 yaml 포맷의 manifest로 관리됩니다.
+Application 배포를 위해서 decapod라는 배포 체계를 사용하게 되며, 각 application 별 배포 설정은 yaml 포맷의 manifest로 관리됩니다.
 
 모든 코드 수정은 pull request 형태로 제출되어, 기본적인 테스트를 거친 후 human review를 거쳐 main branch에 반영되며, 각각의 컴포넌트 별 테스트 외에 주기적으로 여러 컴포넌트들이 결합되어 수행되는 통합 테스트를 거치게 됩니다.
 
