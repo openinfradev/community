@@ -5,7 +5,6 @@ HANU Community에 오신 것을 환영합니다!
 - [HANU Community Guide (작성 중)](#hanu-community-guide-작성-중)
   - [HANU (HAm kke NU rim; 함께 누림)](#hanu-ham-kke-nu-rim-함께-누림)
   - [프로젝트 소개](#프로젝트-소개)
-    - [HANU-CI](#hanu-ci)
     - [TACOPLAY](#tacoplay)
     - [DECAPOD (DEClarative APplication Orchestration & Delivery)](#decapod-declarative-application-orchestration--delivery)
     - [HANUCTL (Incubation)](#hanuctl-incubation)
@@ -30,10 +29,6 @@ HANU에는 여러 개의 오픈소스SW 프로젝트들이 있습니다. HANU의
 HANU의 프로젝트는 두 개로 나뉘어 집니다. 첫번째로 Incubation Project로 시작이 되며, 그 이후 충분한 기능적 완성도와 안성정을 갖추게 되면 Stable Project로 전환 될 수 있습니다.
 
 Incubation Project는 누구든지 생성을 제안할 수 있으며, Technical Committee에서 결정합니다.
-
-### HANU-CI
-
-HANU 산하 프로젝트들의 개발, 테스트, 릴리즈를 위한 CI 시스템을 제공합니다.  
 
 ### TACOPLAY
 
@@ -63,8 +58,7 @@ HANU Community 내 Project는 각각의 README에서 사용/설치/운영 방법
 
 ## How to Develop
 
-HANU Commnity 내 Project를 개발하기 위해 공통적으로 필요한 내용들을 정리하였습니다. 다음 페이지를 참고하세요. : [Developing](developing/README.md)
-
+HANU Commnity 내 Project를 개발하기 위해 숙지해야할 사항이 있습니다. [빌드 가이드](developing/build.md), [테스트 가이드](develop/test.md), 코드 컨벤션, [CI/CD](developing/README.md), 릴리즈에 대한 상세한 내용은 [이곳](developing/README.md)을 참고하세요.
 
 ## How to Contribute
 
@@ -78,6 +72,7 @@ HANU Community는 모든 소스 코드와 문서를 완전히 공개하고 커�
 HANU Community는 Project별로 Mailing List와 Slack 채널을 통해 소통하고 있습니다. 
 
 각 Project의 Mailing List 및 Slack 채널 정보는 다음 페이지에서 확인하세요. : [Communication](communication/README.md)
+
 
 ## License
 
