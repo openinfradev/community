@@ -9,6 +9,15 @@ Application 배포를 위해서 decapod라는 배포 체계를 사용하게 되�
 
 <br>
 
+### Overall Flow
+<img src="./hanu-cicd-flow-v4.jpg" width="800px" height="600px" title="HANU-cicd-flow" alt="cicd-flow"></img><br/>
+
+- Deploy-taco job은 주기적으로 kubernetes cluster의 배포를 테스트하며, 배포 성공시 새롭게 배포된 kubernetes cluster를 cluster pool에 계속 추가합니다. Tacoplay repositoy에 새로운 PR(pull request)이 제출될 경우에도 최소한의 배포 테스트를 거친 후에 수정한 내용이 main branch에 merge됩니다.
+- Decapod-site-yaml 또는 hanu-site-yaml repository에 새로운 PR이 제출될 경우, lint-decapod-yaml job이 자동으로 수행되며, lint test 등 최소한의 validation 작업을 거친 후 수정한 내용이 main branch에 merge됩니다.
+- 실제로 application을 배포하는 deploy-apps job의 경우, kubernetes cluster pool 에서 random으로 cluster를 할당 받은 후 upstream charts와 image, 그리고 앞에서 준비된 decapod yaml 파일을 사용하여 application 배포를 수행하게 됩니다.
+
+<br>
+
 ### Job Type
 테스트는 job의 성격에 따라 jenkins job 또는 github action의 형태로 수행됩니다.
 
@@ -24,14 +33,6 @@ Application 배포를 위해서 decapod라는 배포 체계를 사용하게 되�
 |--------------------|----------------------------------------------------------------------------|-----------------------------------------------|------------
 | deploy-taco        | [tacoplay](https://github.com/openinfradev/tacoplay/blob/main/Jenkinsfile) | tacoplay playbook을 사용하여 taco cluster 배포| Jenkins job
 | deploy-apps        | hanu-site-yaml (private) | decapod toolset 을 사용하여 taco 클러스터 위에 application 배포 (openstack, LMA 등)             | Jenkins job
-| lint-decapod-yaml  | hanu-site-yaml (private) | (common한 내용을 담고 있는) base yaml과 site yaml를 조합시 오류가 없는지 검증  | Github action
+| lint-decapod-yaml  | hanu-site-yaml (private) | (common한 내용을 담고 있는) base yaml과 site yaml를 조합시 오류가 없는지 검증                   | Github action
 | promote (release)  | [hanu-ci-jobs](https://github.com/openinfradev/hanu-ci-jobs/blob/main/promote/Jenkinsfile) | 통합테스트 등 검증 완료 후 version release | Jenkins job
-
-<br>
-
-### Overall Flow
-<img src="./hanu-cicd-flow-v4.jpg" width="800px" height="600px" title="HANU-cicd-flow" alt="cicd-flow"></img><br/>
-
-- Deploy-taco job은 주기적으로 수행되면서 새롭게 배포된 kubernetes cluster를 cluster pool에 계속 추가합니다. Tacoplay repositoy에 새로운 PR(pull request)이 제출될 경우에도 최소한의 배포 테스트를 거친 후에 수정한 내용이 main branch에 merge됩니다.
-- Decapod-site-yaml 또는 hanu-site-yaml repository에 새로운 PR이 제출될 경우, lint-decapod-yaml job이 자동으로 수행되며, lint test 등 최소한의 validation 작업을 거친 후 수정한 내용이 main branch에 merge됩니다.
-- 실제로 application을 배포하는 deploy-apps job의 경우, kubernetes cluster pool 에서 random으로 cluster를 할당 받은 후 upstream charts와 image, 그리고 앞에서 준비된 decapod yaml 파일을 사용하여 application 배포를 수행하게 됩니다.
+| validate-XXX       | [hanu-ci-jobs] (TBU)                                             | kubernetes 및 기타 application들이 정상 동작하는지 검증 | Jenkins job
