@@ -33,6 +33,6 @@ Application 배포를 위해서 decapod라는 배포 체계를 사용하게 되�
 |--------------------|----------------------------------------------------------------------------|-----------------------------------------------|------------
 | deploy-taco        | [tacoplay](https://github.com/openinfradev/tacoplay/blob/main/Jenkinsfile) | tacoplay playbook을 사용하여 taco cluster 배포| Jenkins job
 | deploy-apps        | hanu-site-yaml (private) | decapod toolset 을 사용하여 taco 클러스터 위에 application 배포 (openstack, LMA 등)             | Jenkins job
-| lint-decapod-yaml  | hanu-site-yaml (private) | (common한 내용을 담고 있는) base yaml과 site yaml를 조합시 오류가 없는지 검증                   | Github action
+| lint-decapod-yaml  | {decapod,hanu}-site-yaml | (common한 내용을 담고 있는) base yaml과 site yaml를 조합시 오류가 없는지 검증                   | Github action
 | promote (release)  | [hanu-ci-jobs](https://github.com/openinfradev/hanu-ci-jobs/blob/main/promote/Jenkinsfile) | 통합테스트 등 검증 완료 후 version release | Jenkins job
 | validate-XXX       | [hanu-ci-jobs] (TBU)                                             | kubernetes 및 기타 application들이 정상 동작하는지 검증 | Jenkins job
