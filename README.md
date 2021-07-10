@@ -18,7 +18,7 @@ Hanurim Community에 오신 것을 환영합니다!
   - [Support](#support)
 
 
-## Hanurim (HAm kke NU rim; 함께 누림) 
+## Hanurim (HAm kke NU RIM; 함께 누림) 
 Hanurim 커뮤니티는 Open Infrastructure 및 Cloud Native Computing과 관련된 다양한 기술들을 오픈소스SW로 개발하고, 이와 관련된 커뮤니티를 구성하고 활성화 하기 위한 공간입니다.
 
 ### Supporting Companies & Organizations 
@@ -43,9 +43,12 @@ Incubation Project는 누구든지 생성을 제안할 수 있으며, Technical 
 
 Ansible기반의 Baremetal, Container Runtime (Docker), Kubernetes를 설치하고 관리할 수 있는 playbook들을 제공합니다. 
 
-최초 Kubernetes Cluster를 설치한 후에, 1) Containerized한 Ceph과 OpenStack, 그리고 LMA (Logging, Monitoring, Alerting) 툴들을 설치하여 Private Cloud를 구성할 수 있는 playbook들을 제공하며, 2) Kubernetes를 단독으로 사용하는 경우에는 decapod를 이용하여 Kubernetes LMA (Logging, Monitoring, Alerting), Service Mesh등 필요한 application들을 group으로 설치 가능하도록 제공합니다. 
+최초 Kubernetes Cluster를 설치한 후에, 
 
-  * https://github.com/openinfradev/tacoplay
+1) Containerized한 Ceph과 OpenStack, 그리고 LMA (Logging, Monitoring, Alerting) 툴들을 설치하여 Private Cloud를 구성할 수 있는 playbook들을 제공하며, 
+2) Kubernetes를 단독으로 사용하는 경우에는 decapod를 이용하여 Kubernetes LMA (Logging, Monitoring, Alerting), Service Mesh등 필요한 application들을 group으로 설치 가능하도록 제공합니다. 
+
+  * [tacoplay](https://github.com/openinfradev/tacoplay) - tacoplay 
 
 
 ### DECAPOD (DEClarative APplication Orchestration & Delivery)
