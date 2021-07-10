@@ -8,6 +8,7 @@ Hanurim Community에 오신 것을 환영합니다!
   - [프로젝트 소개](#프로젝트-소개)
     - [TACOPLAY](#tacoplay)
     - [DECAPOD (DEClarative APplication Orchestration & Delivery)](#decapod-declarative-application-orchestration--delivery)
+    - [Shared Repositores](#shared-repositories)
   - [Governance](#governance)
   - [How to Use](#how-to-use)
   - [How to Develop](#how-to-develop)
@@ -55,7 +56,7 @@ Kustomize 기반의 YAML Document 구조화 기능을 제공하며, Helm, Argo W
 * [decapod-base-yaml](https://github.com/openinfradev/decapod-base-yaml) - Kustomize의 base가 되는 base resource yaml
 * [decapod-site](https://github.com/openinfradev/decapod-site) - 환경에 맞게 kustomize를 통해 override할 수 있는 site yaml
 * [decapod-manifests](https://github.com/openinfradev/decapod-manifests) - base와 site를 합쳐 렌더링한 결과의 저장소
-* [kustomize-helm-transformer] https://github.com/openinfradev/kustomize-helm-transformer - kustomize plugin to transform values in HelmRelease CR
+* [kustomize-helm-transformer](https://github.com/openinfradev/kustomize-helm-transformer) - kustomize plugin to transform values in HelmRelease CR
 
 ### Shared Repositories  
 
